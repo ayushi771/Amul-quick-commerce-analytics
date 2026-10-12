@@ -125,7 +125,7 @@ The Power BI report presents digital shelf performance through business-focused 
 
 ### Dashboard Screenshots
 
-<img width="1152" height="856" alt="image" src="https://github.com/user-attachments/assets/d82331ab-1a55-4d8e-a3d8-be18ed4021e1" />
+<img width="1091" height="841" alt="image" src="https://github.com/user-attachments/assets/1d011bbd-78e8-4ae0-917b-c487751a669f" />
 
 The report is designed to help users explore:
 
