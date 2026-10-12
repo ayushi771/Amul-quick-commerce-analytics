@@ -1,0 +1,913 @@
+platform_name	platform_product_name	listed_price	discount_pct	stock_status	delivery_eta_minutes	collected_date	location_name
+Blinkit	Amul Milk Shake Premix Strawberry			Not Listed		5/5/2026	Ahmedabad
+Zepto	Amul Milk Shake Premix Strawberry			Not Listed		5/5/2026	Mumbai
+Instamart	Amul Milk Shake Premix Strawberry	187.66	6	Out of Stock		5/5/2026	Delhi
+BigBasket	Amul Milk Shake Premix Strawberry	169.29	9	In Stock		5/5/2026	Bengaluru
+Blinkit	Amul Milk Shake Premix Mango	179.63	12	Out of Stock		5/5/2026	Mumbai
+Zepto	Amul Milk Shake Premix Mango	180.28	15	Out of Stock		5/5/2026	Delhi
+Instamart	Amul Milk Shake Premix Mango	184.42	18	In Stock	29	5/5/2026	Bengaluru
+BigBasket	Amul Milk Shake Premix Mango	182.26	0	In Stock	36	5/5/2026	Ahmedabad
+Blinkit	Amul Sweetened Condensed Milk	127.83	3	In Stock	20	5/5/2026	Delhi
+Zepto	Amul Sweetened Condensed Milk	134.69	6	In Stock	25	5/5/2026	Bengaluru
+Instamart	Amul Sweetened Condensed Milk	131.11	9	In Stock	21	5/5/2026	Ahmedabad
+BigBasket	Amul Sweetened Condensed Milk	129.53	12	In Stock	39	5/5/2026	Mumbai
+Blinkit	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	140.29	15	In Stock	20	5/5/2026	Bengaluru
+Zepto	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	148.26	18	Out of Stock	26	5/5/2026	Ahmedabad
+Instamart	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	143.68	0	In Stock	27	5/5/2026	Mumbai
+BigBasket	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	142.43	3	In Stock	45	5/5/2026	Delhi
+Blinkit	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	137.86	6	In Stock	18	5/5/2026	Ahmedabad
+Zepto	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	145.84	9	In Stock	19	5/5/2026	Mumbai
+Instamart	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	149.86	12	In Stock	30	5/5/2026	Delhi
+BigBasket	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	139.89	15	In Stock	48	5/5/2026	Bengaluru
+Blinkit	Amulya Dairy Whitener Pouch	255.75	18	In Stock	17	5/5/2026	Mumbai
+Zepto	Amulya Dairy Whitener Pouch	247.42	0	In Stock	15	5/5/2026	Delhi
+Instamart	Amulya Dairy Whitener Pouch	254.04	3	In Stock	23	5/5/2026	Bengaluru
+BigBasket	Amulya Dairy Whitener Pouch	260.08	6	In Stock	42	5/5/2026	Ahmedabad
+Blinkit	Amul Dairy Creamer	181.25	9	In Stock	23	5/5/2026	Delhi
+Zepto	Amul Dairy Creamer	175.41	12	In Stock	28	5/5/2026	Bengaluru
+Instamart	Amul Dairy Creamer	180.51	15	In Stock	28	5/5/2026	Ahmedabad
+BigBasket	Amul Dairy Creamer	177.33	18	In Stock	42	5/5/2026	Mumbai
+Blinkit	Amul Velvett Chocolate Drink	148.61	0	In Stock	19	5/5/2026	Bengaluru
+Zepto	Amul Velvett Chocolate Drink	156.77	3	In Stock	24	5/5/2026	Ahmedabad
+Instamart	Amul Velvett Chocolate Drink	147.75	6	In Stock	20	5/5/2026	Mumbai
+BigBasket	Amul Velvett Chocolate Drink	145.68	9	In Stock	38	5/5/2026	Delhi
+Blinkit	Amul Mango Lassi	48.72	12	In Stock	19	5/5/2026	Ahmedabad
+Zepto	Amul Mango Lassi	51.1	15	In Stock	25	5/5/2026	Mumbai
+Instamart	Amul Mango Lassi			Not Listed		5/5/2026	Delhi
+BigBasket	Amul Mango Lassi			Not Listed		5/5/2026	Bengaluru
+Blinkit	Amul Kool Thandai	51.11	3	In Stock	17	5/5/2026	Mumbai
+Zepto	Amul Kool Thandai			Not Listed		5/5/2026	Delhi
+Instamart	Amul Kool Thandai	57.59	9	Out of Stock		5/5/2026	Bengaluru
+BigBasket	Amul Kool Thandai	52.01	12	In Stock	42	5/5/2026	Ahmedabad
+Blinkit	Amul Hazelnut Dark Chocolate	149.03	15	Out of Stock		5/5/2026	Delhi
+Zepto	Amul Hazelnut Dark Chocolate	150.4	18	Out of Stock		5/5/2026	Bengaluru
+Instamart	Amul Hazelnut Dark Chocolate	153.52	0	In Stock	22	5/5/2026	Ahmedabad
+BigBasket	Amul Hazelnut Dark Chocolate	151.54	3	In Stock	41	5/5/2026	Mumbai
+Blinkit	Amul Bitter 90% Chocolate	146.66	6	Out of Stock		5/5/2026	Bengaluru
+Zepto	Amul Bitter 90% Chocolate	155.64	9	In Stock	27	5/5/2026	Ahmedabad
+Instamart	Amul Bitter 90% Chocolate	151.13	12	In Stock	27	5/5/2026	Mumbai
+BigBasket	Amul Bitter 90% Chocolate	149.06	15	Out of Stock	41	5/5/2026	Delhi
+Blinkit	Amul Belgian Chocolate	145.26	18	In Stock	25	5/5/2026	Ahmedabad
+Zepto	Amul Belgian Chocolate	153.27	0	In Stock	23	5/5/2026	Mumbai
+Instamart	Amul Belgian Chocolate	148.71	3	In Stock	19	5/5/2026	Delhi
+BigBasket	Amul Belgian Chocolate	147.59	6	In Stock	37	5/5/2026	Bengaluru
+Blinkit	Amul Tropical Orange 55% Dark	113.88	9	Out of Stock	18	5/5/2026	Mumbai
+Zepto	Amul Tropical Orange 55% Dark	120.7	12	In Stock	24	5/5/2026	Delhi
+Instamart	Amul Tropical Orange 55% Dark	123.59	15	In Stock	32	5/5/2026	Bengaluru
+BigBasket	Amul Tropical Orange 55% Dark	116.06	18	In Stock	50	5/5/2026	Ahmedabad
+Blinkit	Amul Milk Chocolate	153.45	0	In Stock	16	5/5/2026	Delhi
+Zepto	Amul Milk Chocolate	148.45	3	In Stock	17	5/5/2026	Bengaluru
+Instamart	Amul Milk Chocolate	152.43	6	In Stock	28	5/5/2026	Ahmedabad
+BigBasket	Amul Milk Chocolate	156.05	9	In Stock	46	5/5/2026	Mumbai
+Blinkit	Amul Almondo | Chocolate Coated Almonds	191.32	12	Out of Stock	15	5/5/2026	Bengaluru
+Zepto	Amul Almondo | Chocolate Coated Almonds	184.54	15	In Stock	20	5/5/2026	Ahmedabad
+Instamart	Amul Almondo | Chocolate Coated Almonds	190.32	18	In Stock	28	5/5/2026	Mumbai
+BigBasket	Amul Almondo | Chocolate Coated Almonds	187.4	0	In Stock	40	5/5/2026	Delhi
+Blinkit	Amul Chocominis	148.61	3	In Stock	21	5/5/2026	Ahmedabad
+Zepto	Amul Chocominis	156.77	6	Out of Stock	26	5/5/2026	Mumbai
+Instamart	Amul Chocominis	147.75	9	In Stock	26	5/5/2026	Delhi
+BigBasket	Amul Chocominis	145.68	12	In Stock	40	5/5/2026	Bengaluru
+Blinkit	Amul India Origin Dark Chocolate	146.15	15	In Stock	24	5/5/2026	Mumbai
+Zepto	Amul India Origin Dark Chocolate	155.35	18	In Stock	29	5/5/2026	Delhi
+Instamart	Amul India Origin Dark Chocolate			Not Listed		5/5/2026	Bengaluru
+BigBasket	Amul India Origin Dark Chocolate			Not Listed		5/5/2026	Ahmedabad
+Blinkit	Amul Velvett Milk Chocolate	138.6	6	In Stock	17	5/5/2026	Delhi
+Zepto	Amul Velvett Milk Chocolate			Not Listed		5/5/2026	Bengaluru
+Instamart	Amul Velvett Milk Chocolate	156.88	12	Out of Stock		5/5/2026	Ahmedabad
+BigBasket	Amul Velvett Milk Chocolate	140.74	15	Out of Stock		5/5/2026	Mumbai
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate | I Love You			Not Listed		5/5/2026	Bengaluru
+Zepto	Amul Fruit n Nut 55% Dark Chocolate | I Love You	150.4	0	Out of Stock		5/5/2026	Ahmedabad
+Instamart	Amul Fruit n Nut 55% Dark Chocolate | I Love You	153.52	3	Out of Stock	27	5/5/2026	Mumbai
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate | I Love You	151.54	6	In Stock	45	5/5/2026	Delhi
+Blinkit	Amul 55% Dark Chocolate	146.66	9	Out of Stock		5/5/2026	Ahmedabad
+Zepto	Amul 55% Dark Chocolate	155.64	12	In Stock	19	5/5/2026	Mumbai
+Instamart	Amul 55% Dark Chocolate	151.13	15	In Stock	27	5/5/2026	Delhi
+BigBasket	Amul 55% Dark Chocolate	149.06	18	In Stock	46	5/5/2026	Bengaluru
+Blinkit	Amul Sugar Free 55% Dark Chocolate	145.26	0	In Stock	20	5/5/2026	Mumbai
+Zepto	Amul Sugar Free 55% Dark Chocolate	153.27	3	In Stock	25	5/5/2026	Delhi
+Instamart	Amul Sugar Free 55% Dark Chocolate	148.71	6	Out of Stock	25	5/5/2026	Bengaluru
+BigBasket	Amul Sugar Free 55% Dark Chocolate	147.59	9	In Stock	39	5/5/2026	Ahmedabad
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate	142.85	12	In Stock	23	5/5/2026	Delhi
+Zepto	Amul Fruit n Nut 55% Dark Chocolate	150.87	15	In Stock	28	5/5/2026	Bengaluru
+Instamart	Amul Fruit n Nut 55% Dark Chocolate	154.73	18	In Stock	24	5/5/2026	Ahmedabad
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate	145.07	0	Out of Stock	35	5/5/2026	Mumbai
+Blinkit	Amul Dark Passion Wafer Chocolate Tub	153.45	3	In Stock	16	5/5/2026	Bengaluru
+Zepto	Amul Dark Passion Wafer Chocolate Tub	148.45	6	In Stock	22	5/5/2026	Ahmedabad
+Instamart	Amul Dark Passion Wafer Chocolate Tub	152.43	9	In Stock	30	5/5/2026	Mumbai
+BigBasket	Amul Dark Passion Wafer Chocolate Tub	156.05	12	In Stock	48	5/5/2026	Delhi
+Blinkit	Amul Brazil Origin Dark Chocolate	151.04	15	In Stock	21	5/5/2026	Ahmedabad
+Zepto	Amul Brazil Origin Dark Chocolate	146.01	18	In Stock	22	5/5/2026	Mumbai
+Instamart	Amul Brazil Origin Dark Chocolate	150.1	0	In Stock	26	5/5/2026	Delhi
+BigBasket	Amul Brazil Origin Dark Chocolate	148.11	3	Out of Stock	44	5/5/2026	Bengaluru
+Blinkit	Amul Chocolate Syrup	148.61	6	In Stock	13	5/5/2026	Mumbai
+Zepto	Amul Chocolate Syrup	156.77	9	In Stock	18	5/5/2026	Delhi
+Instamart	Amul Chocolate Syrup	147.75	12	In Stock	26	5/5/2026	Bengaluru
+BigBasket	Amul Chocolate Syrup	145.68	15	In Stock	45	5/5/2026	Ahmedabad
+Blinkit	Amul 99% CACAO Dark Chocolate	146.15	18	Out of Stock	26	5/5/2026	Delhi
+Zepto	Amul 99% CACAO Dark Chocolate	155.35	0	In Stock	24	5/5/2026	Bengaluru
+Instamart	Amul 99% CACAO Dark Chocolate			Not Listed		5/5/2026	Ahmedabad
+BigBasket	Amul 99% CACAO Dark Chocolate			Not Listed		5/5/2026	Mumbai
+Blinkit	Amul High Protein Wheat Flour	111.08	9	In Stock	22	5/5/2026	Bengaluru
+Zepto	Amul High Protein Wheat Flour			Not Listed		5/5/2026	Ahmedabad
+Instamart	Amul High Protein Wheat Flour	125.11	15	In Stock		5/5/2026	Mumbai
+BigBasket	Amul High Protein Wheat Flour	113.2	18	Out of Stock		5/5/2026	Delhi
+Blinkit	Amul Kool Protein Milkshake Chocolate			Not Listed		5/5/2026	Ahmedabad
+Zepto	Amul Kool Protein Milkshake Chocolate	75.2	3	Out of Stock		5/5/2026	Mumbai
+Instamart	Amul Kool Protein Milkshake Chocolate	76.76	6	In Stock	29	5/5/2026	Delhi
+BigBasket	Amul Kool Protein Milkshake Chocolate	75.77	9	In Stock	47	5/5/2026	Bengaluru
+Blinkit	Amul Kool Protein Milkshake Kesar	73.33	12	Out of Stock		5/5/2026	Mumbai
+Zepto	Amul Kool Protein Milkshake Kesar	77.82	15	Out of Stock	21	5/5/2026	Delhi
+Instamart	Amul Kool Protein Milkshake Kesar	76.06	18	In Stock	32	5/5/2026	Bengaluru
+BigBasket	Amul Kool Protein Milkshake Kesar	75.05	0	In Stock	43	5/5/2026	Ahmedabad
+Blinkit	Amul Kool Protein Milkshake Arabica Coffee	72.63	3	In Stock	12	5/5/2026	Delhi
+Zepto	Amul Kool Protein Milkshake Arabica Coffee	76.13	6	In Stock	17	5/5/2026	Bengaluru
+Instamart	Amul Kool Protein Milkshake Arabica Coffee	74.35	9	In Stock	25	5/5/2026	Ahmedabad
+BigBasket	Amul Kool Protein Milkshake Arabica Coffee	73.28	12	In Stock	44	5/5/2026	Mumbai
+Blinkit	Amul Kool Protein Milkshake Vanilla	70.93	15	In Stock	25	5/5/2026	Bengaluru
+Zepto	Amul Kool Protein Milkshake Vanilla	75.44	18	Out of Stock	30	5/5/2026	Ahmedabad
+Instamart	Amul Kool Protein Milkshake Vanilla	77.85	0	In Stock	23	5/5/2026	Mumbai
+BigBasket	Amul Kool Protein Milkshake Vanilla	72.53	3	In Stock	37	5/5/2026	Delhi
+Blinkit	Amul High Protein Blueberry Shake	122.36	6	In Stock	21	5/5/2026	Ahmedabad
+Zepto	Amul High Protein Blueberry Shake	119.17	9	In Stock	26	5/5/2026	Mumbai
+Instamart	Amul High Protein Blueberry Shake	122.14	12	Out of Stock	22	5/5/2026	Delhi
+BigBasket	Amul High Protein Blueberry Shake	124.84	15	In Stock	40	5/5/2026	Bengaluru
+Blinkit	Amul High Protein Paneer	181.25	18	In Stock	21	5/5/2026	Mumbai
+Zepto	Amul High Protein Paneer	175.41	0	In Stock	20	5/5/2026	Delhi
+Instamart	Amul High Protein Paneer	180.51	3	In Stock	28	5/5/2026	Bengaluru
+BigBasket	Amul High Protein Paneer	177.33	6	In Stock	46	5/5/2026	Ahmedabad
+Blinkit	Amul High Protein Buttermilk	119.29	9	In Stock	19	5/5/2026	Delhi
+Zepto	Amul High Protein Buttermilk	126.23	12	In Stock	20	5/5/2026	Bengaluru
+Instamart	Amul High Protein Buttermilk	118.2	15	In Stock	31	5/5/2026	Ahmedabad
+BigBasket	Amul High Protein Buttermilk	116.34	18	In Stock	49	5/5/2026	Mumbai
+Blinkit	Amul High Protein Milk	53.79	0	In Stock	11	5/5/2026	Bengaluru
+Zepto	Amul High Protein Milk	57.23	3	In Stock	16	5/5/2026	Ahmedabad
+Instamart	Amul High Protein Milk	58.35	6	In Stock	24	5/5/2026	Mumbai
+BigBasket	Amul High Protein Milk			Not Listed		5/5/2026	Delhi
+Blinkit	Amul Whey Protein Gift Pack	646.79	12	In Stock	24	5/5/2026	Ahmedabad
+Zepto	Amul Whey Protein Gift Pack			Not Listed		5/5/2026	Mumbai
+Instamart	Amul Whey Protein Gift Pack	728.8	18	In Stock		5/5/2026	Delhi
+BigBasket	Amul Whey Protein Gift Pack	656.77	0	Out of Stock		5/5/2026	Bengaluru
+Blinkit	Amul Whey Protein			Not Listed		5/5/2026	Mumbai
+Zepto	Amul Whey Protein	748.93	6	In Stock		5/5/2026	Delhi
+Instamart	Amul Whey Protein	768.59	9	Out of Stock		5/5/2026	Bengaluru
+BigBasket	Amul Whey Protein	758.73	12	Out of Stock	39	5/5/2026	Ahmedabad
+Blinkit	Amul Milk Shake Premix Strawberry			Not Listed		6/5/2026	Ahmedabad
+Zepto	Amul Milk Shake Premix Strawberry			Not Listed		6/5/2026	Mumbai
+Instamart	Amul Milk Shake Premix Strawberry	189.91	11	Out of Stock		6/5/2026	Delhi
+BigBasket	Amul Milk Shake Premix Strawberry	171.33	14	Out of Stock		6/5/2026	Bengaluru
+Blinkit	Amul Milk Shake Premix Mango	181.81	17	Out of Stock		6/5/2026	Mumbai
+Zepto	Amul Milk Shake Premix Mango	176.01	20	In Stock		6/5/2026	Delhi
+Instamart	Amul Milk Shake Premix Mango	186.63	2	In Stock	24	6/5/2026	Bengaluru
+BigBasket	Amul Milk Shake Premix Mango	184.45	5	In Stock	38	6/5/2026	Ahmedabad
+Blinkit	Amul Sweetened Condensed Milk	129.38	8	In Stock	22	6/5/2026	Delhi
+Zepto	Amul Sweetened Condensed Milk	136.33	11	In Stock	27	6/5/2026	Bengaluru
+Instamart	Amul Sweetened Condensed Milk	127.99	14	In Stock	23	6/5/2026	Ahmedabad
+BigBasket	Amul Sweetened Condensed Milk	131.09	17	In Stock	41	6/5/2026	Mumbai
+Blinkit	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	141.98	20	In Stock	15	6/5/2026	Bengaluru
+Zepto	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	150.06	2	In Stock	21	6/5/2026	Ahmedabad
+Instamart	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	140.28	5	In Stock	29	6/5/2026	Mumbai
+BigBasket	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	144.14	8	Out of Stock	47	6/5/2026	Delhi
+Blinkit	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	139.51	11	In Stock	20	6/5/2026	Ahmedabad
+Zepto	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	147.61	14	In Stock	21	6/5/2026	Mumbai
+Instamart	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	151.69	17	In Stock	32	6/5/2026	Delhi
+BigBasket	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	136.56	20	In Stock	43	6/5/2026	Bengaluru
+Blinkit	Amulya Dairy Whitener Pouch	258.82	2	In Stock	12	6/5/2026	Mumbai
+Zepto	Amulya Dairy Whitener Pouch	250.41	5	In Stock	17	6/5/2026	Delhi
+Instamart	Amulya Dairy Whitener Pouch	257.13	8	In Stock	25	6/5/2026	Bengaluru
+BigBasket	Amulya Dairy Whitener Pouch	253.92	11	In Stock	44	6/5/2026	Ahmedabad
+Blinkit	Amul Dairy Creamer	183.42	14	In Stock	25	6/5/2026	Delhi
+Zepto	Amul Dairy Creamer	177.52	17	In Stock	30	6/5/2026	Bengaluru
+Instamart	Amul Dairy Creamer	182.7	20	In Stock	23	6/5/2026	Ahmedabad
+BigBasket	Amul Dairy Creamer	179.48	2	In Stock	37	6/5/2026	Mumbai
+Blinkit	Amul Velvett Chocolate Drink	145.07	5	Out of Stock	21	6/5/2026	Bengaluru
+Zepto	Amul Velvett Chocolate Drink	158.65	8	In Stock	26	6/5/2026	Ahmedabad
+Instamart	Amul Velvett Chocolate Drink	149.53	11	In Stock	22	6/5/2026	Mumbai
+BigBasket	Amul Velvett Chocolate Drink	147.44	14	In Stock	40	6/5/2026	Delhi
+Blinkit	Amul Mango Lassi	47.56	17	In Stock	21	6/5/2026	Ahmedabad
+Zepto	Amul Mango Lassi	51.71	20	In Stock	20	6/5/2026	Mumbai
+Instamart	Amul Mango Lassi			Not Listed		6/5/2026	Delhi
+BigBasket	Amul Mango Lassi			Not Listed		6/5/2026	Bengaluru
+Blinkit	Amul Kool Thandai	51.74	8	Out of Stock	19	6/5/2026	Mumbai
+Zepto	Amul Kool Thandai			Not Listed		6/5/2026	Delhi
+Instamart	Amul Kool Thandai	58.28	14	Out of Stock		6/5/2026	Bengaluru
+BigBasket	Amul Kool Thandai	52.64	17	In Stock		6/5/2026	Ahmedabad
+Blinkit	Amul Hazelnut Dark Chocolate	150.84	20	Out of Stock		6/5/2026	Delhi
+Zepto	Amul Hazelnut Dark Chocolate	146.84	2	Out of Stock		6/5/2026	Bengaluru
+Instamart	Amul Hazelnut Dark Chocolate	155.36	5	In Stock	24	6/5/2026	Ahmedabad
+BigBasket	Amul Hazelnut Dark Chocolate	153.36	8	In Stock	43	6/5/2026	Mumbai
+Blinkit	Amul Bitter 90% Chocolate	148.44	11	In Stock		6/5/2026	Bengaluru
+Zepto	Amul Bitter 90% Chocolate	157.54	14	In Stock	29	6/5/2026	Ahmedabad
+Instamart	Amul Bitter 90% Chocolate	147.53	17	In Stock	29	6/5/2026	Mumbai
+BigBasket	Amul Bitter 90% Chocolate	150.85	20	In Stock	36	6/5/2026	Delhi
+Blinkit	Amul Belgian Chocolate	147.02	2	In Stock	20	6/5/2026	Ahmedabad
+Zepto	Amul Belgian Chocolate	155.13	5	Out of Stock	25	6/5/2026	Mumbai
+Instamart	Amul Belgian Chocolate	145.19	8	In Stock	21	6/5/2026	Delhi
+BigBasket	Amul Belgian Chocolate	149.36	11	In Stock	39	6/5/2026	Bengaluru
+Blinkit	Amul Tropical Orange 55% Dark	115.25	14	In Stock	20	6/5/2026	Mumbai
+Zepto	Amul Tropical Orange 55% Dark	122.16	17	In Stock	26	6/5/2026	Delhi
+Instamart	Amul Tropical Orange 55% Dark	125.09	20	Out of Stock	27	6/5/2026	Bengaluru
+BigBasket	Amul Tropical Orange 55% Dark	113.3	2	In Stock	45	6/5/2026	Ahmedabad
+Blinkit	Amul Milk Chocolate	155.29	5	In Stock	18	6/5/2026	Delhi
+Zepto	Amul Milk Chocolate	150.24	8	In Stock	19	6/5/2026	Bengaluru
+Instamart	Amul Milk Chocolate	154.28	11	In Stock	30	6/5/2026	Ahmedabad
+BigBasket	Amul Milk Chocolate	152.35	14	In Stock	48	6/5/2026	Mumbai
+Blinkit	Amul Almondo | Chocolate Coated Almonds	193.61	17	In Stock	17	6/5/2026	Bengaluru
+Zepto	Amul Almondo | Chocolate Coated Almonds	186.76	20	In Stock	15	6/5/2026	Ahmedabad
+Instamart	Amul Almondo | Chocolate Coated Almonds	192.63	2	Out of Stock	23	6/5/2026	Mumbai
+BigBasket	Amul Almondo | Chocolate Coated Almonds	189.68	5	In Stock	42	6/5/2026	Delhi
+Blinkit	Amul Chocominis	145.07	8	In Stock	23	6/5/2026	Ahmedabad
+Zepto	Amul Chocominis	158.65	11	In Stock	28	6/5/2026	Mumbai
+Instamart	Amul Chocominis	149.53	14	In Stock	28	6/5/2026	Delhi
+BigBasket	Amul Chocominis	147.44	17	Out of Stock	42	6/5/2026	Bengaluru
+Blinkit	Amul India Origin Dark Chocolate	142.69	20	In Stock	19	6/5/2026	Mumbai
+Zepto	Amul India Origin Dark Chocolate	157.21	2	In Stock	24	6/5/2026	Delhi
+Instamart	Amul India Origin Dark Chocolate			Not Listed		6/5/2026	Bengaluru
+BigBasket	Amul India Origin Dark Chocolate			Not Listed		6/5/2026	Ahmedabad
+Blinkit	Amul Velvett Milk Chocolate	140.28	11	In Stock	19	6/5/2026	Delhi
+Zepto	Amul Velvett Milk Chocolate			Not Listed		6/5/2026	Bengaluru
+Instamart	Amul Velvett Milk Chocolate	158.76	17	Out of Stock		6/5/2026	Ahmedabad
+BigBasket	Amul Velvett Milk Chocolate	142.43	20	Out of Stock		6/5/2026	Mumbai
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate | I Love You			Not Listed		6/5/2026	Bengaluru
+Zepto	Amul Fruit n Nut 55% Dark Chocolate | I Love You	146.84	5	Out of Stock		6/5/2026	Ahmedabad
+Instamart	Amul Fruit n Nut 55% Dark Chocolate | I Love You	155.36	8	In Stock	29	6/5/2026	Mumbai
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate | I Love You	153.36	11	In Stock	47	6/5/2026	Delhi
+Blinkit	Amul 55% Dark Chocolate	148.44	14	Out of Stock		6/5/2026	Ahmedabad
+Zepto	Amul 55% Dark Chocolate	157.54	17	In Stock	21	6/5/2026	Mumbai
+Instamart	Amul 55% Dark Chocolate	147.53	20	In Stock	22	6/5/2026	Delhi
+BigBasket	Amul 55% Dark Chocolate	150.85	2	In Stock	41	6/5/2026	Bengaluru
+Blinkit	Amul Sugar Free 55% Dark Chocolate	147.02	5	In Stock	22	6/5/2026	Mumbai
+Zepto	Amul Sugar Free 55% Dark Chocolate	155.13	8	In Stock	27	6/5/2026	Delhi
+Instamart	Amul Sugar Free 55% Dark Chocolate	145.19	11	In Stock	27	6/5/2026	Bengaluru
+BigBasket	Amul Sugar Free 55% Dark Chocolate	149.36	14	In Stock	41	6/5/2026	Ahmedabad
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate	144.57	17	Out of Stock	25	6/5/2026	Delhi
+Zepto	Amul Fruit n Nut 55% Dark Chocolate	152.7	20	In Stock	23	6/5/2026	Bengaluru
+Instamart	Amul Fruit n Nut 55% Dark Chocolate	156.61	2	In Stock	19	6/5/2026	Ahmedabad
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate	141.62	5	In Stock	37	6/5/2026	Mumbai
+Blinkit	Amul Dark Passion Wafer Chocolate Tub	155.29	8	In Stock	18	6/5/2026	Bengaluru
+Zepto	Amul Dark Passion Wafer Chocolate Tub	150.24	11	Out of Stock	24	6/5/2026	Ahmedabad
+Instamart	Amul Dark Passion Wafer Chocolate Tub	154.28	14	In Stock	32	6/5/2026	Mumbai
+BigBasket	Amul Dark Passion Wafer Chocolate Tub	152.35	17	In Stock	50	6/5/2026	Delhi
+Blinkit	Amul Brazil Origin Dark Chocolate	152.85	20	In Stock	16	6/5/2026	Ahmedabad
+Zepto	Amul Brazil Origin Dark Chocolate	147.76	2	In Stock	17	6/5/2026	Mumbai
+Instamart	Amul Brazil Origin Dark Chocolate	151.92	5	In Stock	28	6/5/2026	Delhi
+BigBasket	Amul Brazil Origin Dark Chocolate	149.91	8	In Stock	46	6/5/2026	Bengaluru
+Blinkit	Amul Chocolate Syrup	145.07	11	In Stock	15	6/5/2026	Mumbai
+Zepto	Amul Chocolate Syrup	158.65	14	Out of Stock	20	6/5/2026	Delhi
+Instamart	Amul Chocolate Syrup	149.53	17	In Stock	28	6/5/2026	Bengaluru
+BigBasket	Amul Chocolate Syrup	147.44	20	In Stock	40	6/5/2026	Ahmedabad
+Blinkit	Amul 99% CACAO Dark Chocolate	142.69	2	In Stock	21	6/5/2026	Delhi
+Zepto	Amul 99% CACAO Dark Chocolate	157.21	5	In Stock	26	6/5/2026	Bengaluru
+Instamart	Amul 99% CACAO Dark Chocolate			Not Listed		6/5/2026	Ahmedabad
+BigBasket	Amul 99% CACAO Dark Chocolate			Not Listed		6/5/2026	Mumbai
+Blinkit	Amul High Protein Wheat Flour	112.43	14	In Stock	24	6/5/2026	Bengaluru
+Zepto	Amul High Protein Wheat Flour			Not Listed		6/5/2026	Ahmedabad
+Instamart	Amul High Protein Wheat Flour	126.61	20	Out of Stock		6/5/2026	Mumbai
+BigBasket	Amul High Protein Wheat Flour	114.57	2	Out of Stock		6/5/2026	Delhi
+Blinkit	Amul Kool Protein Milkshake Chocolate			Not Listed		6/5/2026	Ahmedabad
+Zepto	Amul Kool Protein Milkshake Chocolate	73.42	8	Out of Stock		6/5/2026	Mumbai
+Instamart	Amul Kool Protein Milkshake Chocolate	77.68	11	Out of Stock	31	6/5/2026	Delhi
+BigBasket	Amul Kool Protein Milkshake Chocolate	76.68	14	In Stock	49	6/5/2026	Bengaluru
+Blinkit	Amul Kool Protein Milkshake Kesar	74.22	17	Out of Stock		6/5/2026	Mumbai
+Zepto	Amul Kool Protein Milkshake Kesar	78.77	20	In Stock	16	6/5/2026	Delhi
+Instamart	Amul Kool Protein Milkshake Kesar	74.25	2	In Stock	27	6/5/2026	Bengaluru
+BigBasket	Amul Kool Protein Milkshake Kesar	75.95	5	In Stock	45	6/5/2026	Ahmedabad
+Blinkit	Amul Kool Protein Milkshake Arabica Coffee	73.51	8	In Stock	14	6/5/2026	Delhi
+Zepto	Amul Kool Protein Milkshake Arabica Coffee	77.06	11	In Stock	19	6/5/2026	Bengaluru
+Instamart	Amul Kool Protein Milkshake Arabica Coffee	72.59	14	In Stock	27	6/5/2026	Ahmedabad
+BigBasket	Amul Kool Protein Milkshake Arabica Coffee	74.16	17	In Stock	46	6/5/2026	Mumbai
+Blinkit	Amul Kool Protein Milkshake Vanilla	71.78	20	In Stock	20	6/5/2026	Bengaluru
+Zepto	Amul Kool Protein Milkshake Vanilla	76.35	2	In Stock	25	6/5/2026	Ahmedabad
+Instamart	Amul Kool Protein Milkshake Vanilla	78.8	5	In Stock	25	6/5/2026	Mumbai
+BigBasket	Amul Kool Protein Milkshake Vanilla	70.81	8	Out of Stock	39	6/5/2026	Delhi
+Blinkit	Amul High Protein Blueberry Shake	123.83	11	In Stock	23	6/5/2026	Ahmedabad
+Zepto	Amul High Protein Blueberry Shake	120.6	14	In Stock	28	6/5/2026	Mumbai
+Instamart	Amul High Protein Blueberry Shake	123.62	17	In Stock	24	6/5/2026	Delhi
+BigBasket	Amul High Protein Blueberry Shake	121.88	20	In Stock	35	6/5/2026	Bengaluru
+Blinkit	Amul High Protein Paneer	183.42	2	In Stock	16	6/5/2026	Mumbai
+Zepto	Amul High Protein Paneer	177.52	5	In Stock	22	6/5/2026	Delhi
+Instamart	Amul High Protein Paneer	182.7	8	In Stock	30	6/5/2026	Bengaluru
+BigBasket	Amul High Protein Paneer	179.48	11	In Stock	48	6/5/2026	Ahmedabad
+Blinkit	Amul High Protein Buttermilk	116.45	14	In Stock	21	6/5/2026	Delhi
+Zepto	Amul High Protein Buttermilk	127.75	17	In Stock	22	6/5/2026	Bengaluru
+Instamart	Amul High Protein Buttermilk	119.63	20	In Stock	26	6/5/2026	Ahmedabad
+BigBasket	Amul High Protein Buttermilk	117.75	2	In Stock	44	6/5/2026	Mumbai
+Blinkit	Amul High Protein Milk	52.52	5	In Stock	13	6/5/2026	Bengaluru
+Zepto	Amul High Protein Milk	57.92	8	In Stock	18	6/5/2026	Ahmedabad
+Instamart	Amul High Protein Milk	59.05	11	In Stock	26	6/5/2026	Mumbai
+BigBasket	Amul High Protein Milk			Not Listed		6/5/2026	Delhi
+Blinkit	Amul Whey Protein Gift Pack	654.66	17	In Stock	26	6/5/2026	Ahmedabad
+Zepto	Amul Whey Protein Gift Pack			Not Listed		6/5/2026	Mumbai
+Instamart	Amul Whey Protein Gift Pack	737.55	2	Out of Stock		6/5/2026	Delhi
+BigBasket	Amul Whey Protein Gift Pack	664.69	5	Out of Stock		6/5/2026	Bengaluru
+Blinkit	Amul Whey Protein			Not Listed		6/5/2026	Mumbai
+Zepto	Amul Whey Protein	731.2	11	Out of Stock		6/5/2026	Delhi
+Instamart	Amul Whey Protein	777.79	14	Out of Stock		6/5/2026	Bengaluru
+BigBasket	Amul Whey Protein	767.86	17	In Stock	41	6/5/2026	Ahmedabad
+Blinkit	Amul Milk Shake Premix Strawberry			Not Listed		7/5/2026	Ahmedabad
+Zepto	Amul Milk Shake Premix Strawberry			Not Listed		7/5/2026	Mumbai
+Instamart	Amul Milk Shake Premix Strawberry	183.45	16	In Stock		7/5/2026	Delhi
+BigBasket	Amul Milk Shake Premix Strawberry	171.56	19	Out of Stock		7/5/2026	Bengaluru
+Blinkit	Amul Milk Shake Premix Mango	182.06	1	Out of Stock		7/5/2026	Mumbai
+Zepto	Amul Milk Shake Premix Mango	176.27	4	Out of Stock		7/5/2026	Delhi
+Instamart	Amul Milk Shake Premix Mango	180.29	7	In Stock	26	7/5/2026	Bengaluru
+BigBasket	Amul Milk Shake Premix Mango	184.69	10	In Stock	40	7/5/2026	Ahmedabad
+Blinkit	Amul Sweetened Condensed Milk	129.56	13	In Stock	24	7/5/2026	Delhi
+Zepto	Amul Sweetened Condensed Milk	136.53	16	In Stock	29	7/5/2026	Bengaluru
+Instamart	Amul Sweetened Condensed Milk	128.18	19	In Stock	18	7/5/2026	Ahmedabad
+BigBasket	Amul Sweetened Condensed Milk	126.62	1	In Stock	36	7/5/2026	Mumbai
+Blinkit	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	142.17	4	Out of Stock	17	7/5/2026	Bengaluru
+Zepto	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	150.27	7	In Stock	23	7/5/2026	Ahmedabad
+Instamart	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	140.49	10	In Stock	31	7/5/2026	Mumbai
+BigBasket	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	139.24	13	In Stock	49	7/5/2026	Delhi
+Blinkit	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	139.7	16	In Stock	22	7/5/2026	Ahmedabad
+Zepto	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	147.81	19	Out of Stock	16	7/5/2026	Mumbai
+Instamart	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	151.9	1	In Stock	27	7/5/2026	Delhi
+BigBasket	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	136.77	4	In Stock	45	7/5/2026	Bengaluru
+Blinkit	Amulya Dairy Whitener Pouch	250.01	7	In Stock	14	7/5/2026	Mumbai
+Zepto	Amulya Dairy Whitener Pouch	250.74	10	In Stock	19	7/5/2026	Delhi
+Instamart	Amulya Dairy Whitener Pouch	257.49	13	In Stock	27	7/5/2026	Bengaluru
+BigBasket	Amulya Dairy Whitener Pouch	254.3	16	In Stock	46	7/5/2026	Ahmedabad
+Blinkit	Amul Dairy Creamer	177.19	19	In Stock	20	7/5/2026	Delhi
+Zepto	Amul Dairy Creamer	177.75	1	In Stock	25	7/5/2026	Bengaluru
+Instamart	Amul Dairy Creamer	182.95	4	In Stock	25	7/5/2026	Ahmedabad
+BigBasket	Amul Dairy Creamer	179.74	7	In Stock	39	7/5/2026	Mumbai
+Blinkit	Amul Velvett Chocolate Drink	145.29	10	In Stock	23	7/5/2026	Bengaluru
+Zepto	Amul Velvett Chocolate Drink	153.25	13	In Stock	28	7/5/2026	Ahmedabad
+Instamart	Amul Velvett Chocolate Drink	149.73	16	Out of Stock	24	7/5/2026	Mumbai
+BigBasket	Amul Velvett Chocolate Drink	147.65	19	In Stock	35	7/5/2026	Delhi
+Blinkit	Amul Mango Lassi	47.63	1	In Stock	16	7/5/2026	Ahmedabad
+Zepto	Amul Mango Lassi	49.96	4	In Stock	22	7/5/2026	Mumbai
+Instamart	Amul Mango Lassi			Not Listed		7/5/2026	Delhi
+BigBasket	Amul Mango Lassi			Not Listed		7/5/2026	Bengaluru
+Blinkit	Amul Kool Thandai	51.81	13	In Stock	21	7/5/2026	Mumbai
+Zepto	Amul Kool Thandai			Not Listed		7/5/2026	Delhi
+Instamart	Amul Kool Thandai	56.3	19	Out of Stock		7/5/2026	Bengaluru
+BigBasket	Amul Kool Thandai	52.71	1	Out of Stock		7/5/2026	Ahmedabad
+Blinkit	Amul Hazelnut Dark Chocolate	151.05	4	Out of Stock		7/5/2026	Delhi
+Zepto	Amul Hazelnut Dark Chocolate	147.06	7	In Stock		7/5/2026	Bengaluru
+Instamart	Amul Hazelnut Dark Chocolate	150.08	10	In Stock	26	7/5/2026	Ahmedabad
+BigBasket	Amul Hazelnut Dark Chocolate	153.57	13	Out of Stock	45	7/5/2026	Mumbai
+Blinkit	Amul Bitter 90% Chocolate	148.64	16	Out of Stock		7/5/2026	Bengaluru
+Zepto	Amul Bitter 90% Chocolate	157.76	19	In Stock	24	7/5/2026	Ahmedabad
+Instamart	Amul Bitter 90% Chocolate	147.75	1	In Stock	24	7/5/2026	Mumbai
+BigBasket	Amul Bitter 90% Chocolate	145.71	4	In Stock	38	7/5/2026	Delhi
+Blinkit	Amul Belgian Chocolate	147.21	7	In Stock	22	7/5/2026	Ahmedabad
+Zepto	Amul Belgian Chocolate	155.35	10	In Stock	27	7/5/2026	Mumbai
+Instamart	Amul Belgian Chocolate	145.4	13	In Stock	23	7/5/2026	Delhi
+BigBasket	Amul Belgian Chocolate	144.29	16	Out of Stock	41	7/5/2026	Bengaluru
+Blinkit	Amul Tropical Orange 55% Dark	115.4	19	In Stock	15	7/5/2026	Mumbai
+Zepto	Amul Tropical Orange 55% Dark	122.33	1	In Stock	21	7/5/2026	Delhi
+Instamart	Amul Tropical Orange 55% Dark	125.27	4	In Stock	29	7/5/2026	Bengaluru
+BigBasket	Amul Tropical Orange 55% Dark	113.47	7	In Stock	47	7/5/2026	Ahmedabad
+Blinkit	Amul Milk Chocolate	150	10	Out of Stock	20	7/5/2026	Delhi
+Zepto	Amul Milk Chocolate	150.45	13	In Stock	21	7/5/2026	Bengaluru
+Instamart	Amul Milk Chocolate	154.49	16	In Stock	32	7/5/2026	Ahmedabad
+BigBasket	Amul Milk Chocolate	152.58	19	In Stock	43	7/5/2026	Mumbai
+Blinkit	Amul Almondo | Chocolate Coated Almonds	187.04	1	In Stock	12	7/5/2026	Bengaluru
+Zepto	Amul Almondo | Chocolate Coated Almonds	187	4	In Stock	17	7/5/2026	Ahmedabad
+Instamart	Amul Almondo | Chocolate Coated Almonds	192.89	7	In Stock	25	7/5/2026	Mumbai
+BigBasket	Amul Almondo | Chocolate Coated Almonds	189.96	10	In Stock	44	7/5/2026	Delhi
+Blinkit	Amul Chocominis	145.29	13	Out of Stock	25	7/5/2026	Ahmedabad
+Zepto	Amul Chocominis	153.25	16	In Stock	30	7/5/2026	Mumbai
+Instamart	Amul Chocominis	149.73	19	In Stock	23	7/5/2026	Delhi
+BigBasket	Amul Chocominis	147.65	1	In Stock	37	7/5/2026	Bengaluru
+Blinkit	Amul India Origin Dark Chocolate	142.9	4	In Stock	21	7/5/2026	Mumbai
+Zepto	Amul India Origin Dark Chocolate	151.87	7	Out of Stock	26	7/5/2026	Delhi
+Instamart	Amul India Origin Dark Chocolate			Not Listed		7/5/2026	Bengaluru
+BigBasket	Amul India Origin Dark Chocolate			Not Listed		7/5/2026	Ahmedabad
+Blinkit	Amul Velvett Milk Chocolate	140.49	16	In Stock	21	7/5/2026	Delhi
+Zepto	Amul Velvett Milk Chocolate			Not Listed		7/5/2026	Bengaluru
+Instamart	Amul Velvett Milk Chocolate	153.36	1	Out of Stock		7/5/2026	Ahmedabad
+BigBasket	Amul Velvett Milk Chocolate	142.63	4	In Stock		7/5/2026	Mumbai
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate | I Love You			Not Listed		7/5/2026	Bengaluru
+Zepto	Amul Fruit n Nut 55% Dark Chocolate | I Love You	147.06	10	Out of Stock		7/5/2026	Ahmedabad
+Instamart	Amul Fruit n Nut 55% Dark Chocolate | I Love You	150.08	13	In Stock	31	7/5/2026	Mumbai
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate | I Love You	153.57	16	In Stock	49	7/5/2026	Delhi
+Blinkit	Amul 55% Dark Chocolate	148.64	19	In Stock		7/5/2026	Ahmedabad
+Zepto	Amul 55% Dark Chocolate	157.76	1	In Stock	16	7/5/2026	Mumbai
+Instamart	Amul 55% Dark Chocolate	147.75	4	Out of Stock	24	7/5/2026	Delhi
+BigBasket	Amul 55% Dark Chocolate	145.71	7	In Stock	43	7/5/2026	Bengaluru
+Blinkit	Amul Sugar Free 55% Dark Chocolate	147.21	10	In Stock	24	7/5/2026	Mumbai
+Zepto	Amul Sugar Free 55% Dark Chocolate	155.35	13	In Stock	29	7/5/2026	Delhi
+Instamart	Amul Sugar Free 55% Dark Chocolate	145.4	16	In Stock	29	7/5/2026	Bengaluru
+BigBasket	Amul Sugar Free 55% Dark Chocolate	144.29	19	In Stock	36	7/5/2026	Ahmedabad
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate	144.76	1	In Stock	20	7/5/2026	Delhi
+Zepto	Amul Fruit n Nut 55% Dark Chocolate	152.91	4	In Stock	25	7/5/2026	Bengaluru
+Instamart	Amul Fruit n Nut 55% Dark Chocolate	156.84	7	Out of Stock	21	7/5/2026	Ahmedabad
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate	141.83	10	In Stock	39	7/5/2026	Mumbai
+Blinkit	Amul Dark Passion Wafer Chocolate Tub	150	13	In Stock	20	7/5/2026	Bengaluru
+Zepto	Amul Dark Passion Wafer Chocolate Tub	150.45	16	In Stock	26	7/5/2026	Ahmedabad
+Instamart	Amul Dark Passion Wafer Chocolate Tub	154.49	19	In Stock	27	7/5/2026	Mumbai
+BigBasket	Amul Dark Passion Wafer Chocolate Tub	152.58	1	Out of Stock	45	7/5/2026	Delhi
+Blinkit	Amul Brazil Origin Dark Chocolate	147.66	4	In Stock	18	7/5/2026	Ahmedabad
+Zepto	Amul Brazil Origin Dark Chocolate	147.96	7	In Stock	19	7/5/2026	Mumbai
+Instamart	Amul Brazil Origin Dark Chocolate	152.13	10	In Stock	30	7/5/2026	Delhi
+BigBasket	Amul Brazil Origin Dark Chocolate	150.13	13	In Stock	48	7/5/2026	Bengaluru
+Blinkit	Amul Chocolate Syrup	145.29	16	In Stock	17	7/5/2026	Mumbai
+Zepto	Amul Chocolate Syrup	153.25	19	In Stock	15	7/5/2026	Delhi
+Instamart	Amul Chocolate Syrup	149.73	1	In Stock	23	7/5/2026	Bengaluru
+BigBasket	Amul Chocolate Syrup	147.65	4	Out of Stock	42	7/5/2026	Ahmedabad
+Blinkit	Amul 99% CACAO Dark Chocolate	142.9	7	In Stock	23	7/5/2026	Delhi
+Zepto	Amul 99% CACAO Dark Chocolate	151.87	10	In Stock	28	7/5/2026	Bengaluru
+Instamart	Amul 99% CACAO Dark Chocolate			Not Listed		7/5/2026	Ahmedabad
+BigBasket	Amul 99% CACAO Dark Chocolate			Not Listed		7/5/2026	Mumbai
+Blinkit	Amul High Protein Wheat Flour	112.59	19	Out of Stock	19	7/5/2026	Bengaluru
+Zepto	Amul High Protein Wheat Flour			Not Listed		7/5/2026	Ahmedabad
+Instamart	Amul High Protein Wheat Flour	122.3	4	Out of Stock		7/5/2026	Mumbai
+BigBasket	Amul High Protein Wheat Flour	114.72	7	In Stock		7/5/2026	Delhi
+Blinkit	Amul Kool Protein Milkshake Chocolate			Not Listed		7/5/2026	Ahmedabad
+Zepto	Amul Kool Protein Milkshake Chocolate	73.53	13	Out of Stock		7/5/2026	Mumbai
+Instamart	Amul Kool Protein Milkshake Chocolate	75.04	16	In Stock	33	7/5/2026	Delhi
+BigBasket	Amul Kool Protein Milkshake Chocolate	76.78	19	In Stock	44	7/5/2026	Bengaluru
+Blinkit	Amul Kool Protein Milkshake Kesar	74.32	1	Out of Stock		7/5/2026	Mumbai
+Zepto	Amul Kool Protein Milkshake Kesar	78.88	4	In Stock	18	7/5/2026	Delhi
+Instamart	Amul Kool Protein Milkshake Kesar	74.37	7	In Stock	29	7/5/2026	Bengaluru
+BigBasket	Amul Kool Protein Milkshake Kesar	73.36	10	In Stock	47	7/5/2026	Ahmedabad
+Blinkit	Amul Kool Protein Milkshake Arabica Coffee	73.61	13	In Stock	16	7/5/2026	Delhi
+Zepto	Amul Kool Protein Milkshake Arabica Coffee	77.17	16	Out of Stock	21	7/5/2026	Bengaluru
+Instamart	Amul Kool Protein Milkshake Arabica Coffee	72.7	19	In Stock	22	7/5/2026	Ahmedabad
+BigBasket	Amul Kool Protein Milkshake Arabica Coffee	71.64	1	In Stock	41	7/5/2026	Mumbai
+Blinkit	Amul Kool Protein Milkshake Vanilla	71.87	4	In Stock	22	7/5/2026	Bengaluru
+Zepto	Amul Kool Protein Milkshake Vanilla	76.45	7	In Stock	27	7/5/2026	Ahmedabad
+Instamart	Amul Kool Protein Milkshake Vanilla	78.91	10	In Stock	27	7/5/2026	Mumbai
+BigBasket	Amul Kool Protein Milkshake Vanilla	70.92	13	In Stock	41	7/5/2026	Delhi
+Blinkit	Amul High Protein Blueberry Shake	119.61	16	In Stock	25	7/5/2026	Ahmedabad
+Zepto	Amul High Protein Blueberry Shake	120.77	19	Out of Stock	23	7/5/2026	Mumbai
+Instamart	Amul High Protein Blueberry Shake	123.79	1	In Stock	19	7/5/2026	Delhi
+BigBasket	Amul High Protein Blueberry Shake	122.06	4	In Stock	37	7/5/2026	Bengaluru
+Blinkit	Amul High Protein Paneer	177.19	7	In Stock	18	7/5/2026	Mumbai
+Zepto	Amul High Protein Paneer	177.75	10	In Stock	24	7/5/2026	Delhi
+Instamart	Amul High Protein Paneer	182.95	13	In Stock	32	7/5/2026	Bengaluru
+BigBasket	Amul High Protein Paneer	179.74	16	In Stock	50	7/5/2026	Ahmedabad
+Blinkit	Amul High Protein Buttermilk	116.63	19	In Stock	16	7/5/2026	Delhi
+Zepto	Amul High Protein Buttermilk	123.4	1	In Stock	17	7/5/2026	Bengaluru
+Instamart	Amul High Protein Buttermilk	119.79	4	In Stock	28	7/5/2026	Ahmedabad
+BigBasket	Amul High Protein Buttermilk	117.92	7	In Stock	46	7/5/2026	Mumbai
+Blinkit	Amul High Protein Milk	52.6	10	In Stock	15	7/5/2026	Bengaluru
+Zepto	Amul High Protein Milk	55.95	13	In Stock	20	7/5/2026	Ahmedabad
+Instamart	Amul High Protein Milk	59.13	16	In Stock	28	7/5/2026	Mumbai
+BigBasket	Amul High Protein Milk			Not Listed		7/5/2026	Delhi
+Blinkit	Amul Whey Protein Gift Pack	655.6	1	In Stock	21	7/5/2026	Ahmedabad
+Zepto	Amul Whey Protein Gift Pack			Not Listed		7/5/2026	Mumbai
+Instamart	Amul Whey Protein Gift Pack	712.43	7	Out of Stock		7/5/2026	Delhi
+BigBasket	Amul Whey Protein Gift Pack	665.59	10	Out of Stock		7/5/2026	Bengaluru
+Blinkit	Amul Whey Protein			Not Listed		7/5/2026	Mumbai
+Zepto	Amul Whey Protein	732.28	16	Out of Stock		7/5/2026	Delhi
+Instamart	Amul Whey Protein	751.38	19	In Stock		7/5/2026	Bengaluru
+BigBasket	Amul Whey Protein	768.87	1	In Stock	36	7/5/2026	Ahmedabad
+Blinkit	Amul Milk Shake Premix Strawberry			Not Listed		8/5/2026	Ahmedabad
+Zepto	Amul Milk Shake Premix Strawberry			Not Listed		8/5/2026	Mumbai
+Instamart	Amul Milk Shake Premix Strawberry	184.51	0	Out of Stock		8/5/2026	Delhi
+BigBasket	Amul Milk Shake Premix Strawberry	166.44	3	Out of Stock		8/5/2026	Bengaluru
+Blinkit	Amul Milk Shake Premix Mango	183.09	6	In Stock		8/5/2026	Mumbai
+Zepto	Amul Milk Shake Premix Mango	177.28	9	Out of Stock		8/5/2026	Delhi
+Instamart	Amul Milk Shake Premix Mango	181.34	12	Out of Stock	28	8/5/2026	Bengaluru
+BigBasket	Amul Milk Shake Premix Mango	179.19	15	In Stock	42	8/5/2026	Ahmedabad
+Blinkit	Amul Sweetened Condensed Milk	130.29	18	In Stock	19	8/5/2026	Delhi
+Zepto	Amul Sweetened Condensed Milk	137.3	0	In Stock	24	8/5/2026	Bengaluru
+Instamart	Amul Sweetened Condensed Milk	128.92	3	In Stock	20	8/5/2026	Ahmedabad
+BigBasket	Amul Sweetened Condensed Milk	127.36	6	In Stock	38	8/5/2026	Mumbai
+Blinkit	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	137.92	9	In Stock	19	8/5/2026	Bengaluru
+Zepto	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	151.12	12	In Stock	25	8/5/2026	Ahmedabad
+Instamart	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	141.29	15	Out of Stock	33	8/5/2026	Mumbai
+BigBasket	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	140.05	18	In Stock	44	8/5/2026	Delhi
+Blinkit	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	135.54	0	In Stock	17	8/5/2026	Ahmedabad
+Zepto	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	148.64	3	In Stock	18	8/5/2026	Mumbai
+Instamart	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	152.77	6	In Stock	29	8/5/2026	Delhi
+BigBasket	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	137.56	9	Out of Stock	47	8/5/2026	Bengaluru
+Blinkit	Amulya Dairy Whitener Pouch	251.46	12	In Stock	16	8/5/2026	Mumbai
+Zepto	Amulya Dairy Whitener Pouch	243.25	15	In Stock	21	8/5/2026	Delhi
+Instamart	Amulya Dairy Whitener Pouch	258.95	18	In Stock	22	8/5/2026	Bengaluru
+BigBasket	Amulya Dairy Whitener Pouch	255.75	0	In Stock	41	8/5/2026	Ahmedabad
+Blinkit	Amul Dairy Creamer	178.22	3	In Stock	22	8/5/2026	Delhi
+Zepto	Amul Dairy Creamer	172.46	6	In Stock	27	8/5/2026	Bengaluru
+Instamart	Amul Dairy Creamer	183.98	9	In Stock	27	8/5/2026	Ahmedabad
+BigBasket	Amul Dairy Creamer	180.77	12	In Stock	41	8/5/2026	Mumbai
+Blinkit	Amul Velvett Chocolate Drink	146.13	15	In Stock	25	8/5/2026	Bengaluru
+Zepto	Amul Velvett Chocolate Drink	154.14	18	In Stock	23	8/5/2026	Ahmedabad
+Instamart	Amul Velvett Chocolate Drink	145.26	0	In Stock	19	8/5/2026	Mumbai
+BigBasket	Amul Velvett Chocolate Drink	148.49	3	In Stock	37	8/5/2026	Delhi
+Blinkit	Amul Mango Lassi	47.91	6	Out of Stock	18	8/5/2026	Ahmedabad
+Zepto	Amul Mango Lassi	50.25	9	In Stock	24	8/5/2026	Mumbai
+Instamart	Amul Mango Lassi			Not Listed		8/5/2026	Delhi
+BigBasket	Amul Mango Lassi			Not Listed		8/5/2026	Bengaluru
+Blinkit	Amul Kool Thandai	52.11	18	In Stock	16	8/5/2026	Mumbai
+Zepto	Amul Kool Thandai			Not Listed		8/5/2026	Delhi
+Instamart	Amul Kool Thandai	56.62	3	In Stock		8/5/2026	Bengaluru
+BigBasket	Amul Kool Thandai	51.13	6	Out of Stock		8/5/2026	Ahmedabad
+Blinkit	Amul Hazelnut Dark Chocolate	151.91	9	Out of Stock		8/5/2026	Delhi
+Zepto	Amul Hazelnut Dark Chocolate	147.9	12	Out of Stock		8/5/2026	Bengaluru
+Instamart	Amul Hazelnut Dark Chocolate	150.95	15	In Stock	28	8/5/2026	Ahmedabad
+BigBasket	Amul Hazelnut Dark Chocolate	148.99	18	In Stock	40	8/5/2026	Mumbai
+Blinkit	Amul Bitter 90% Chocolate	149.48	0	Out of Stock		8/5/2026	Bengaluru
+Zepto	Amul Bitter 90% Chocolate	158.66	3	Out of Stock	26	8/5/2026	Ahmedabad
+Instamart	Amul Bitter 90% Chocolate	148.6	6	In Stock	26	8/5/2026	Mumbai
+BigBasket	Amul Bitter 90% Chocolate	146.56	9	In Stock	40	8/5/2026	Delhi
+Blinkit	Amul Belgian Chocolate	142.81	12	In Stock	24	8/5/2026	Ahmedabad
+Zepto	Amul Belgian Chocolate	156.23	15	In Stock	29	8/5/2026	Mumbai
+Instamart	Amul Belgian Chocolate	146.23	18	In Stock	18	8/5/2026	Delhi
+BigBasket	Amul Belgian Chocolate	145.12	0	In Stock	36	8/5/2026	Bengaluru
+Blinkit	Amul Tropical Orange 55% Dark	111.96	3	In Stock	17	8/5/2026	Mumbai
+Zepto	Amul Tropical Orange 55% Dark	123.02	6	Out of Stock	23	8/5/2026	Delhi
+Instamart	Amul Tropical Orange 55% Dark	125.99	9	In Stock	31	8/5/2026	Bengaluru
+BigBasket	Amul Tropical Orange 55% Dark	114.12	12	In Stock	49	8/5/2026	Ahmedabad
+Blinkit	Amul Milk Chocolate	150.88	15	In Stock	22	8/5/2026	Delhi
+Zepto	Amul Milk Chocolate	145.95	18	In Stock	16	8/5/2026	Bengaluru
+Instamart	Amul Milk Chocolate	155.37	0	Out of Stock	27	8/5/2026	Ahmedabad
+BigBasket	Amul Milk Chocolate	153.45	3	In Stock	45	8/5/2026	Mumbai
+Blinkit	Amul Almondo | Chocolate Coated Almonds	188.12	6	In Stock	14	8/5/2026	Bengaluru
+Zepto	Amul Almondo | Chocolate Coated Almonds	181.43	9	In Stock	19	8/5/2026	Ahmedabad
+Instamart	Amul Almondo | Chocolate Coated Almonds	193.98	12	In Stock	27	8/5/2026	Mumbai
+BigBasket	Amul Almondo | Chocolate Coated Almonds	191.04	15	In Stock	46	8/5/2026	Delhi
+Blinkit	Amul Chocominis	146.13	18	In Stock	20	8/5/2026	Ahmedabad
+Zepto	Amul Chocominis	154.14	0	In Stock	25	8/5/2026	Mumbai
+Instamart	Amul Chocominis	145.26	3	Out of Stock	25	8/5/2026	Delhi
+BigBasket	Amul Chocominis	148.49	6	In Stock	39	8/5/2026	Bengaluru
+Blinkit	Amul India Origin Dark Chocolate	143.72	9	In Stock	23	8/5/2026	Mumbai
+Zepto	Amul India Origin Dark Chocolate	152.75	12	In Stock	28	8/5/2026	Delhi
+Instamart	Amul India Origin Dark Chocolate			Not Listed		8/5/2026	Bengaluru
+BigBasket	Amul India Origin Dark Chocolate			Not Listed		8/5/2026	Ahmedabad
+Blinkit	Amul Velvett Milk Chocolate	141.29	0	In Stock	16	8/5/2026	Delhi
+Zepto	Amul Velvett Milk Chocolate			Not Listed		8/5/2026	Bengaluru
+Instamart	Amul Velvett Milk Chocolate	154.25	6	In Stock		8/5/2026	Ahmedabad
+BigBasket	Amul Velvett Milk Chocolate	138.36	9	Out of Stock		8/5/2026	Mumbai
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate | I Love You			Not Listed		8/5/2026	Bengaluru
+Zepto	Amul Fruit n Nut 55% Dark Chocolate | I Love You	147.9	15	In Stock		8/5/2026	Ahmedabad
+Instamart	Amul Fruit n Nut 55% Dark Chocolate | I Love You	150.95	18	In Stock	26	8/5/2026	Mumbai
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate | I Love You	148.99	0	Out of Stock	44	8/5/2026	Delhi
+Blinkit	Amul 55% Dark Chocolate	149.48	3	Out of Stock		8/5/2026	Ahmedabad
+Zepto	Amul 55% Dark Chocolate	158.66	6	In Stock	18	8/5/2026	Mumbai
+Instamart	Amul 55% Dark Chocolate	148.6	9	In Stock	26	8/5/2026	Delhi
+BigBasket	Amul 55% Dark Chocolate	146.56	12	In Stock	45	8/5/2026	Bengaluru
+Blinkit	Amul Sugar Free 55% Dark Chocolate	142.81	15	Out of Stock	26	8/5/2026	Mumbai
+Zepto	Amul Sugar Free 55% Dark Chocolate	156.23	18	In Stock	24	8/5/2026	Delhi
+Instamart	Amul Sugar Free 55% Dark Chocolate	146.23	0	In Stock	24	8/5/2026	Bengaluru
+BigBasket	Amul Sugar Free 55% Dark Chocolate	145.12	3	In Stock	38	8/5/2026	Ahmedabad
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate	140.45	6	In Stock	22	8/5/2026	Delhi
+Zepto	Amul Fruit n Nut 55% Dark Chocolate	153.77	9	In Stock	27	8/5/2026	Bengaluru
+Instamart	Amul Fruit n Nut 55% Dark Chocolate	157.73	12	In Stock	23	8/5/2026	Ahmedabad
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate	142.65	15	In Stock	41	8/5/2026	Mumbai
+Blinkit	Amul Dark Passion Wafer Chocolate Tub	150.88	18	Out of Stock	15	8/5/2026	Bengaluru
+Zepto	Amul Dark Passion Wafer Chocolate Tub	145.95	0	In Stock	21	8/5/2026	Ahmedabad
+Instamart	Amul Dark Passion Wafer Chocolate Tub	155.37	3	In Stock	29	8/5/2026	Mumbai
+BigBasket	Amul Dark Passion Wafer Chocolate Tub	153.45	6	In Stock	47	8/5/2026	Delhi
+Blinkit	Amul Brazil Origin Dark Chocolate	148.51	9	In Stock	20	8/5/2026	Ahmedabad
+Zepto	Amul Brazil Origin Dark Chocolate	143.55	12	Out of Stock	21	8/5/2026	Mumbai
+Instamart	Amul Brazil Origin Dark Chocolate	152.98	15	In Stock	32	8/5/2026	Delhi
+BigBasket	Amul Brazil Origin Dark Chocolate	150.98	18	In Stock	43	8/5/2026	Bengaluru
+Blinkit	Amul Chocolate Syrup	146.13	0	In Stock	12	8/5/2026	Mumbai
+Zepto	Amul Chocolate Syrup	154.14	3	In Stock	17	8/5/2026	Delhi
+Instamart	Amul Chocolate Syrup	145.26	6	In Stock	25	8/5/2026	Bengaluru
+BigBasket	Amul Chocolate Syrup	148.49	9	In Stock	44	8/5/2026	Ahmedabad
+Blinkit	Amul 99% CACAO Dark Chocolate	143.72	12	In Stock	25	8/5/2026	Delhi
+Zepto	Amul 99% CACAO Dark Chocolate	152.75	15	Out of Stock	30	8/5/2026	Bengaluru
+Instamart	Amul 99% CACAO Dark Chocolate			Not Listed		8/5/2026	Ahmedabad
+BigBasket	Amul 99% CACAO Dark Chocolate			Not Listed		8/5/2026	Mumbai
+Blinkit	Amul High Protein Wheat Flour	113.23	3	In Stock	21	8/5/2026	Bengaluru
+Zepto	Amul High Protein Wheat Flour			Not Listed		8/5/2026	Ahmedabad
+Instamart	Amul High Protein Wheat Flour	123.01	9	Out of Stock		8/5/2026	Mumbai
+BigBasket	Amul High Protein Wheat Flour	111.29	12	Out of Stock		8/5/2026	Delhi
+Blinkit	Amul Kool Protein Milkshake Chocolate			Not Listed		8/5/2026	Ahmedabad
+Zepto	Amul Kool Protein Milkshake Chocolate	73.95	18	In Stock		8/5/2026	Mumbai
+Instamart	Amul Kool Protein Milkshake Chocolate	75.48	0	In Stock	28	8/5/2026	Delhi
+BigBasket	Amul Kool Protein Milkshake Chocolate	74.5	3	In Stock	46	8/5/2026	Bengaluru
+Blinkit	Amul Kool Protein Milkshake Kesar	74.74	6	In Stock		8/5/2026	Mumbai
+Zepto	Amul Kool Protein Milkshake Kesar	79.33	9	In Stock	20	8/5/2026	Delhi
+Instamart	Amul Kool Protein Milkshake Kesar	74.79	12	Out of Stock	31	8/5/2026	Bengaluru
+BigBasket	Amul Kool Protein Milkshake Kesar	73.79	15	In Stock	49	8/5/2026	Ahmedabad
+Blinkit	Amul Kool Protein Milkshake Arabica Coffee	71.41	18	In Stock	11	8/5/2026	Delhi
+Zepto	Amul Kool Protein Milkshake Arabica Coffee	77.6	0	In Stock	16	8/5/2026	Bengaluru
+Instamart	Amul Kool Protein Milkshake Arabica Coffee	73.12	3	In Stock	24	8/5/2026	Ahmedabad
+BigBasket	Amul Kool Protein Milkshake Arabica Coffee	72.05	6	Out of Stock	43	8/5/2026	Mumbai
+Blinkit	Amul Kool Protein Milkshake Vanilla	69.73	9	In Stock	24	8/5/2026	Bengaluru
+Zepto	Amul Kool Protein Milkshake Vanilla	76.88	12	In Stock	29	8/5/2026	Ahmedabad
+Instamart	Amul Kool Protein Milkshake Vanilla	79.36	15	In Stock	29	8/5/2026	Mumbai
+BigBasket	Amul Kool Protein Milkshake Vanilla	71.32	18	In Stock	36	8/5/2026	Delhi
+Blinkit	Amul High Protein Blueberry Shake	120.31	0	In Stock	20	8/5/2026	Ahmedabad
+Zepto	Amul High Protein Blueberry Shake	117.16	3	In Stock	25	8/5/2026	Mumbai
+Instamart	Amul High Protein Blueberry Shake	124.49	6	In Stock	21	8/5/2026	Delhi
+BigBasket	Amul High Protein Blueberry Shake	122.76	9	In Stock	39	8/5/2026	Bengaluru
+Blinkit	Amul High Protein Paneer	178.22	12	In Stock	20	8/5/2026	Mumbai
+Zepto	Amul High Protein Paneer	172.46	15	In Stock	26	8/5/2026	Delhi
+Instamart	Amul High Protein Paneer	183.98	18	In Stock	27	8/5/2026	Bengaluru
+BigBasket	Amul High Protein Paneer	180.77	0	In Stock	45	8/5/2026	Ahmedabad
+Blinkit	Amul High Protein Buttermilk	117.3	3	In Stock	18	8/5/2026	Delhi
+Zepto	Amul High Protein Buttermilk	124.11	6	In Stock	19	8/5/2026	Bengaluru
+Instamart	Amul High Protein Buttermilk	116.21	9	In Stock	30	8/5/2026	Ahmedabad
+BigBasket	Amul High Protein Buttermilk	118.58	12	In Stock	48	8/5/2026	Mumbai
+Blinkit	Amul High Protein Milk	52.9	15	In Stock	17	8/5/2026	Bengaluru
+Zepto	Amul High Protein Milk	56.28	18	In Stock	15	8/5/2026	Ahmedabad
+Instamart	Amul High Protein Milk	57.37	0	In Stock	23	8/5/2026	Mumbai
+BigBasket	Amul High Protein Milk			Not Listed		8/5/2026	Delhi
+Blinkit	Amul Whey Protein Gift Pack	659.33	6	Out of Stock	23	8/5/2026	Ahmedabad
+Zepto	Amul Whey Protein Gift Pack			Not Listed		8/5/2026	Mumbai
+Instamart	Amul Whey Protein Gift Pack	716.58	12	Out of Stock		8/5/2026	Delhi
+BigBasket	Amul Whey Protein Gift Pack	645.69	15	In Stock		8/5/2026	Bengaluru
+Blinkit	Amul Whey Protein			Not Listed		8/5/2026	Mumbai
+Zepto	Amul Whey Protein	736.47	0	Out of Stock		8/5/2026	Delhi
+Instamart	Amul Whey Protein	755.73	3	Out of Stock		8/5/2026	Bengaluru
+BigBasket	Amul Whey Protein	745.97	6	In Stock	38	8/5/2026	Ahmedabad
+Blinkit	Amul Milk Shake Premix Strawberry			Not Listed		9/5/2026	Ahmedabad
+Zepto	Amul Milk Shake Premix Strawberry			Not Listed		9/5/2026	Mumbai
+Instamart	Amul Milk Shake Premix Strawberry	188.21	5	Out of Stock		9/5/2026	Delhi
+BigBasket	Amul Milk Shake Premix Strawberry	169.78	8	Out of Stock		9/5/2026	Bengaluru
+Blinkit	Amul Milk Shake Premix Mango	180.14	11	Out of Stock		9/5/2026	Mumbai
+Zepto	Amul Milk Shake Premix Mango	180.82	14	Out of Stock		9/5/2026	Delhi
+Instamart	Amul Milk Shake Premix Mango	184.97	17	In Stock	23	9/5/2026	Bengaluru
+BigBasket	Amul Milk Shake Premix Mango	182.79	20	In Stock	37	9/5/2026	Ahmedabad
+Blinkit	Amul Sweetened Condensed Milk	128.2	2	In Stock	21	9/5/2026	Delhi
+Zepto	Amul Sweetened Condensed Milk	140.04	5	In Stock	26	9/5/2026	Bengaluru
+Instamart	Amul Sweetened Condensed Milk	131.5	8	In Stock	22	9/5/2026	Ahmedabad
+BigBasket	Amul Sweetened Condensed Milk	129.91	11	In Stock	40	9/5/2026	Mumbai
+Blinkit	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	140.7	14	In Stock	21	9/5/2026	Bengaluru
+Zepto	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	148.69	17	In Stock	20	9/5/2026	Ahmedabad
+Instamart	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	144.11	20	In Stock	28	9/5/2026	Mumbai
+BigBasket	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	142.85	2	In Stock	46	9/5/2026	Delhi
+Blinkit	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	138.26	5	Out of Stock	19	9/5/2026	Ahmedabad
+Zepto	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	146.27	8	In Stock	20	9/5/2026	Mumbai
+Instamart	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	155.81	11	In Stock	31	9/5/2026	Delhi
+BigBasket	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	140.31	14	In Stock	49	9/5/2026	Bengaluru
+Blinkit	Amulya Dairy Whitener Pouch	256.5	17	In Stock	11	9/5/2026	Mumbai
+Zepto	Amulya Dairy Whitener Pouch	248.14	20	In Stock	16	9/5/2026	Delhi
+Instamart	Amulya Dairy Whitener Pouch	254.78	2	In Stock	24	9/5/2026	Bengaluru
+BigBasket	Amulya Dairy Whitener Pouch	260.86	5	In Stock	43	9/5/2026	Ahmedabad
+Blinkit	Amul Dairy Creamer	181.79	8	In Stock	24	9/5/2026	Delhi
+Zepto	Amul Dairy Creamer	175.92	11	In Stock	29	9/5/2026	Bengaluru
+Instamart	Amul Dairy Creamer	181.04	14	In Stock	29	9/5/2026	Ahmedabad
+BigBasket	Amul Dairy Creamer	184.37	17	In Stock	36	9/5/2026	Mumbai
+Blinkit	Amul Velvett Chocolate Drink	149.05	20	In Stock	20	9/5/2026	Bengaluru
+Zepto	Amul Velvett Chocolate Drink	157.23	2	Out of Stock	25	9/5/2026	Ahmedabad
+Instamart	Amul Velvett Chocolate Drink	148.18	5	In Stock	21	9/5/2026	Mumbai
+BigBasket	Amul Velvett Chocolate Drink	146.1	8	In Stock	39	9/5/2026	Delhi
+Blinkit	Amul Mango Lassi	48.86	11	In Stock	20	9/5/2026	Ahmedabad
+Zepto	Amul Mango Lassi	51.25	14	In Stock	26	9/5/2026	Mumbai
+Instamart	Amul Mango Lassi			Not Listed		9/5/2026	Delhi
+BigBasket	Amul Mango Lassi			Not Listed		9/5/2026	Bengaluru
+Blinkit	Amul Kool Thandai	53.14	2	In Stock	18	9/5/2026	Mumbai
+Zepto	Amul Kool Thandai			Not Listed		9/5/2026	Delhi
+Instamart	Amul Kool Thandai	57.76	8	Out of Stock		9/5/2026	Bengaluru
+BigBasket	Amul Kool Thandai	52.16	11	In Stock	42	9/5/2026	Ahmedabad
+Blinkit	Amul Hazelnut Dark Chocolate	149.46	14	In Stock		9/5/2026	Delhi
+Zepto	Amul Hazelnut Dark Chocolate	150.85	17	Out of Stock		9/5/2026	Bengaluru
+Instamart	Amul Hazelnut Dark Chocolate	153.97	20	Out of Stock	23	9/5/2026	Ahmedabad
+BigBasket	Amul Hazelnut Dark Chocolate	151.98	2	In Stock	42	9/5/2026	Mumbai
+Blinkit	Amul Bitter 90% Chocolate	147.09	5	Out of Stock		9/5/2026	Bengaluru
+Zepto	Amul Bitter 90% Chocolate	161.82	8	In Stock	28	9/5/2026	Ahmedabad
+Instamart	Amul Bitter 90% Chocolate	151.58	11	In Stock	28	9/5/2026	Mumbai
+BigBasket	Amul Bitter 90% Chocolate	149.5	14	Out of Stock	42	9/5/2026	Delhi
+Blinkit	Amul Belgian Chocolate	145.69	17	In Stock	19	9/5/2026	Ahmedabad
+Zepto	Amul Belgian Chocolate	153.71	20	In Stock	24	9/5/2026	Mumbai
+Instamart	Amul Belgian Chocolate	149.15	2	In Stock	20	9/5/2026	Delhi
+BigBasket	Amul Belgian Chocolate	148.03	5	In Stock	38	9/5/2026	Bengaluru
+Blinkit	Amul Tropical Orange 55% Dark	114.21	8	In Stock	19	9/5/2026	Mumbai
+Zepto	Amul Tropical Orange 55% Dark	121.05	11	In Stock	25	9/5/2026	Delhi
+Instamart	Amul Tropical Orange 55% Dark	128.5	14	In Stock	33	9/5/2026	Bengaluru
+BigBasket	Amul Tropical Orange 55% Dark	116.4	17	Out of Stock	44	9/5/2026	Ahmedabad
+Blinkit	Amul Milk Chocolate	153.9	20	In Stock	17	9/5/2026	Delhi
+Zepto	Amul Milk Chocolate	148.88	2	In Stock	18	9/5/2026	Bengaluru
+Instamart	Amul Milk Chocolate	152.87	5	In Stock	29	9/5/2026	Ahmedabad
+BigBasket	Amul Milk Chocolate	156.51	8	In Stock	47	9/5/2026	Mumbai
+Blinkit	Amul Almondo | Chocolate Coated Almonds	191.89	11	Out of Stock	16	9/5/2026	Bengaluru
+Zepto	Amul Almondo | Chocolate Coated Almonds	185.08	14	In Stock	21	9/5/2026	Ahmedabad
+Instamart	Amul Almondo | Chocolate Coated Almonds	190.87	17	In Stock	22	9/5/2026	Mumbai
+BigBasket	Amul Almondo | Chocolate Coated Almonds	194.84	20	In Stock	41	9/5/2026	Delhi
+Blinkit	Amul Chocominis	149.05	2	In Stock	22	9/5/2026	Ahmedabad
+Zepto	Amul Chocominis	157.23	5	In Stock	27	9/5/2026	Mumbai
+Instamart	Amul Chocominis	148.18	8	In Stock	27	9/5/2026	Delhi
+BigBasket	Amul Chocominis	146.1	11	In Stock	41	9/5/2026	Bengaluru
+Blinkit	Amul India Origin Dark Chocolate	146.59	14	Out of Stock	25	9/5/2026	Mumbai
+Zepto	Amul India Origin Dark Chocolate	155.81	17	In Stock	23	9/5/2026	Delhi
+Instamart	Amul India Origin Dark Chocolate			Not Listed		9/5/2026	Bengaluru
+BigBasket	Amul India Origin Dark Chocolate			Not Listed		9/5/2026	Ahmedabad
+Blinkit	Amul Velvett Milk Chocolate	144.1	5	In Stock	18	9/5/2026	Delhi
+Zepto	Amul Velvett Milk Chocolate			Not Listed		9/5/2026	Bengaluru
+Instamart	Amul Velvett Milk Chocolate	157.34	11	Out of Stock		9/5/2026	Ahmedabad
+BigBasket	Amul Velvett Milk Chocolate	141.15	14	Out of Stock		9/5/2026	Mumbai
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate | I Love You			Not Listed		9/5/2026	Bengaluru
+Zepto	Amul Fruit n Nut 55% Dark Chocolate | I Love You	150.85	20	Out of Stock		9/5/2026	Ahmedabad
+Instamart	Amul Fruit n Nut 55% Dark Chocolate | I Love You	153.97	2	In Stock	28	9/5/2026	Mumbai
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate | I Love You	151.98	5	In Stock	46	9/5/2026	Delhi
+Blinkit	Amul 55% Dark Chocolate	147.09	8	Out of Stock		9/5/2026	Ahmedabad
+Zepto	Amul 55% Dark Chocolate	161.82	11	Out of Stock	20	9/5/2026	Mumbai
+Instamart	Amul 55% Dark Chocolate	151.58	14	In Stock	28	9/5/2026	Delhi
+BigBasket	Amul 55% Dark Chocolate	149.5	17	In Stock	40	9/5/2026	Bengaluru
+Blinkit	Amul Sugar Free 55% Dark Chocolate	145.69	20	In Stock	21	9/5/2026	Mumbai
+Zepto	Amul Sugar Free 55% Dark Chocolate	153.71	2	In Stock	26	9/5/2026	Delhi
+Instamart	Amul Sugar Free 55% Dark Chocolate	149.15	5	Out of Stock	26	9/5/2026	Bengaluru
+BigBasket	Amul Sugar Free 55% Dark Chocolate	148.03	8	In Stock	40	9/5/2026	Ahmedabad
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate	143.27	11	In Stock	24	9/5/2026	Delhi
+Zepto	Amul Fruit n Nut 55% Dark Chocolate	151.31	14	In Stock	29	9/5/2026	Bengaluru
+Instamart	Amul Fruit n Nut 55% Dark Chocolate	160.87	17	In Stock	18	9/5/2026	Ahmedabad
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate	145.5	20	In Stock	36	9/5/2026	Mumbai
+Blinkit	Amul Dark Passion Wafer Chocolate Tub	153.9	2	In Stock	17	9/5/2026	Bengaluru
+Zepto	Amul Dark Passion Wafer Chocolate Tub	148.88	5	In Stock	23	9/5/2026	Ahmedabad
+Instamart	Amul Dark Passion Wafer Chocolate Tub	152.87	8	Out of Stock	31	9/5/2026	Mumbai
+BigBasket	Amul Dark Passion Wafer Chocolate Tub	156.51	11	In Stock	49	9/5/2026	Delhi
+Blinkit	Amul Brazil Origin Dark Chocolate	151.49	14	In Stock	22	9/5/2026	Ahmedabad
+Zepto	Amul Brazil Origin Dark Chocolate	146.43	17	In Stock	16	9/5/2026	Mumbai
+Instamart	Amul Brazil Origin Dark Chocolate	150.54	20	In Stock	27	9/5/2026	Delhi
+BigBasket	Amul Brazil Origin Dark Chocolate	153.99	2	Out of Stock	45	9/5/2026	Bengaluru
+Blinkit	Amul Chocolate Syrup	149.05	5	In Stock	14	9/5/2026	Mumbai
+Zepto	Amul Chocolate Syrup	157.23	8	In Stock	19	9/5/2026	Delhi
+Instamart	Amul Chocolate Syrup	148.18	11	In Stock	27	9/5/2026	Bengaluru
+BigBasket	Amul Chocolate Syrup	146.1	14	In Stock	46	9/5/2026	Ahmedabad
+Blinkit	Amul 99% CACAO Dark Chocolate	146.59	17	In Stock	20	9/5/2026	Delhi
+Zepto	Amul 99% CACAO Dark Chocolate	155.81	20	In Stock	25	9/5/2026	Bengaluru
+Instamart	Amul 99% CACAO Dark Chocolate			Not Listed		9/5/2026	Ahmedabad
+BigBasket	Amul 99% CACAO Dark Chocolate			Not Listed		9/5/2026	Mumbai
+Blinkit	Amul High Protein Wheat Flour	115.49	8	In Stock	23	9/5/2026	Bengaluru
+Zepto	Amul High Protein Wheat Flour			Not Listed		9/5/2026	Ahmedabad
+Instamart	Amul High Protein Wheat Flour	125.48	14	In Stock		9/5/2026	Mumbai
+BigBasket	Amul High Protein Wheat Flour	113.53	17	Out of Stock		9/5/2026	Delhi
+Blinkit	Amul Kool Protein Milkshake Chocolate			Not Listed		9/5/2026	Ahmedabad
+Zepto	Amul Kool Protein Milkshake Chocolate	75.43	2	Out of Stock		9/5/2026	Mumbai
+Instamart	Amul Kool Protein Milkshake Chocolate	76.99	5	In Stock	30	9/5/2026	Delhi
+BigBasket	Amul Kool Protein Milkshake Chocolate	75.99	8	In Stock	48	9/5/2026	Bengaluru
+Blinkit	Amul Kool Protein Milkshake Kesar	73.54	11	Out of Stock		9/5/2026	Mumbai
+Zepto	Amul Kool Protein Milkshake Kesar	80.91	14	In Stock	22	9/5/2026	Delhi
+Instamart	Amul Kool Protein Milkshake Kesar	76.29	17	In Stock	26	9/5/2026	Bengaluru
+BigBasket	Amul Kool Protein Milkshake Kesar	75.27	20	In Stock	44	9/5/2026	Ahmedabad
+Blinkit	Amul Kool Protein Milkshake Arabica Coffee	72.84	2	In Stock	13	9/5/2026	Delhi
+Zepto	Amul Kool Protein Milkshake Arabica Coffee	76.35	5	In Stock	18	9/5/2026	Bengaluru
+Instamart	Amul Kool Protein Milkshake Arabica Coffee	74.58	8	In Stock	26	9/5/2026	Ahmedabad
+BigBasket	Amul Kool Protein Milkshake Arabica Coffee	73.5	11	In Stock	45	9/5/2026	Mumbai
+Blinkit	Amul Kool Protein Milkshake Vanilla	71.13	14	In Stock	26	9/5/2026	Bengaluru
+Zepto	Amul Kool Protein Milkshake Vanilla	75.66	17	Out of Stock	24	9/5/2026	Ahmedabad
+Instamart	Amul Kool Protein Milkshake Vanilla	80.94	20	In Stock	24	9/5/2026	Mumbai
+BigBasket	Amul Kool Protein Milkshake Vanilla	72.75	2	In Stock	38	9/5/2026	Delhi
+Blinkit	Amul High Protein Blueberry Shake	122.72	5	In Stock	22	9/5/2026	Ahmedabad
+Zepto	Amul High Protein Blueberry Shake	119.51	8	In Stock	27	9/5/2026	Mumbai
+Instamart	Amul High Protein Blueberry Shake	122.49	11	In Stock	23	9/5/2026	Delhi
+BigBasket	Amul High Protein Blueberry Shake	125.21	14	In Stock	41	9/5/2026	Bengaluru
+Blinkit	Amul High Protein Paneer	181.79	17	In Stock	15	9/5/2026	Mumbai
+Zepto	Amul High Protein Paneer	175.92	20	In Stock	21	9/5/2026	Delhi
+Instamart	Amul High Protein Paneer	181.04	2	In Stock	29	9/5/2026	Bengaluru
+BigBasket	Amul High Protein Paneer	184.37	5	In Stock	47	9/5/2026	Ahmedabad
+Blinkit	Amul High Protein Buttermilk	119.65	8	In Stock	20	9/5/2026	Delhi
+Zepto	Amul High Protein Buttermilk	126.6	11	In Stock	21	9/5/2026	Bengaluru
+Instamart	Amul High Protein Buttermilk	118.54	14	In Stock	32	9/5/2026	Ahmedabad
+BigBasket	Amul High Protein Buttermilk	116.67	17	In Stock	43	9/5/2026	Mumbai
+Blinkit	Amul High Protein Milk	53.95	20	In Stock	12	9/5/2026	Bengaluru
+Zepto	Amul High Protein Milk	57.4	2	In Stock	17	9/5/2026	Ahmedabad
+Instamart	Amul High Protein Milk	58.52	5	In Stock	25	9/5/2026	Mumbai
+BigBasket	Amul High Protein Milk			Not Listed		9/5/2026	Delhi
+Blinkit	Amul Whey Protein Gift Pack	672.47	11	In Stock	25	9/5/2026	Ahmedabad
+Zepto	Amul Whey Protein Gift Pack			Not Listed		9/5/2026	Mumbai
+Instamart	Amul Whey Protein Gift Pack	730.95	17	Out of Stock		9/5/2026	Delhi
+BigBasket	Amul Whey Protein Gift Pack	658.68	20	Out of Stock		9/5/2026	Bengaluru
+Blinkit	Amul Whey Protein			Not Listed		9/5/2026	Mumbai
+Zepto	Amul Whey Protein	751.17	5	In Stock		9/5/2026	Delhi
+Instamart	Amul Whey Protein	770.87	8	Out of Stock		9/5/2026	Bengaluru
+BigBasket	Amul Whey Protein	760.95	11	Out of Stock	40	9/5/2026	Ahmedabad
+Blinkit	Amul Milk Shake Premix Strawberry			Not Listed		10/5/2026	Ahmedabad
+Zepto	Amul Milk Shake Premix Strawberry			Not Listed		10/5/2026	Mumbai
+Instamart	Amul Milk Shake Premix Strawberry	189.15	10	Out of Stock		10/5/2026	Delhi
+BigBasket	Amul Milk Shake Premix Strawberry	170.63	13	In Stock		10/5/2026	Bengaluru
+Blinkit	Amul Milk Shake Premix Mango	181.04	16	Out of Stock		10/5/2026	Mumbai
+Zepto	Amul Milk Shake Premix Mango	181.72	19	Out of Stock		10/5/2026	Delhi
+Instamart	Amul Milk Shake Premix Mango	185.89	1	In Stock	25	10/5/2026	Bengaluru
+BigBasket	Amul Milk Shake Premix Mango	183.7	4	In Stock	39	10/5/2026	Ahmedabad
+Blinkit	Amul Sweetened Condensed Milk	128.84	7	In Stock	23	10/5/2026	Delhi
+Zepto	Amul Sweetened Condensed Milk	140.74	10	In Stock	28	10/5/2026	Bengaluru
+Instamart	Amul Sweetened Condensed Milk	132.16	13	In Stock	24	10/5/2026	Ahmedabad
+BigBasket	Amul Sweetened Condensed Milk	130.56	16	In Stock	35	10/5/2026	Mumbai
+Blinkit	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	141.4	19	In Stock	16	10/5/2026	Bengaluru
+Zepto	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	149.43	1	In Stock	22	10/5/2026	Ahmedabad
+Instamart	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	144.83	4	In Stock	30	10/5/2026	Mumbai
+BigBasket	Amul Instant Tea Mix (Adrak | Masala | Elaichi)	143.56	7	In Stock	48	10/5/2026	Delhi
+Blinkit	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	138.95	10	In Stock	21	10/5/2026	Ahmedabad
+Zepto	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	147	13	In Stock	22	10/5/2026	Mumbai
+Instamart	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	156.59	16	Out of Stock	26	10/5/2026	Delhi
+BigBasket	Amul Elaichi Chai Ã¢â‚¬â€œ Instant Tea Mix	141.01	19	In Stock	44	10/5/2026	Bengaluru
+Blinkit	Amulya Dairy Whitener Pouch	257.78	1	In Stock	13	10/5/2026	Mumbai
+Zepto	Amulya Dairy Whitener Pouch	249.38	4	In Stock	18	10/5/2026	Delhi
+Instamart	Amulya Dairy Whitener Pouch	256.05	7	In Stock	26	10/5/2026	Bengaluru
+BigBasket	Amulya Dairy Whitener Pouch	262.16	10	In Stock	45	10/5/2026	Ahmedabad
+Blinkit	Amul Dairy Creamer	182.7	13	In Stock	26	10/5/2026	Delhi
+Zepto	Amul Dairy Creamer	176.8	16	In Stock	24	10/5/2026	Bengaluru
+Instamart	Amul Dairy Creamer	181.95	19	In Stock	24	10/5/2026	Ahmedabad
+BigBasket	Amul Dairy Creamer	185.29	1	In Stock	38	10/5/2026	Mumbai
+Blinkit	Amul Velvett Chocolate Drink	149.8	4	In Stock	22	10/5/2026	Bengaluru
+Zepto	Amul Velvett Chocolate Drink	158.02	7	In Stock	27	10/5/2026	Ahmedabad
+Instamart	Amul Velvett Chocolate Drink	148.92	10	In Stock	23	10/5/2026	Mumbai
+BigBasket	Amul Velvett Chocolate Drink	146.83	13	Out of Stock	41	10/5/2026	Delhi
+Blinkit	Amul Mango Lassi	49.1	16	In Stock	15	10/5/2026	Ahmedabad
+Zepto	Amul Mango Lassi	51.51	19	In Stock	21	10/5/2026	Mumbai
+Instamart	Amul Mango Lassi			Not Listed		10/5/2026	Delhi
+BigBasket	Amul Mango Lassi			Not Listed		10/5/2026	Bengaluru
+Blinkit	Amul Kool Thandai	53.41	7	Out of Stock	20	10/5/2026	Mumbai
+Zepto	Amul Kool Thandai			Not Listed		10/5/2026	Delhi
+Instamart	Amul Kool Thandai	58.05	13	Out of Stock		10/5/2026	Bengaluru
+BigBasket	Amul Kool Thandai	52.42	16	In Stock		10/5/2026	Ahmedabad
+Blinkit	Amul Hazelnut Dark Chocolate	150.21	19	Out of Stock		10/5/2026	Delhi
+Zepto	Amul Hazelnut Dark Chocolate	151.6	1	Out of Stock		10/5/2026	Bengaluru
+Instamart	Amul Hazelnut Dark Chocolate	154.74	4	In Stock	25	10/5/2026	Ahmedabad
+BigBasket	Amul Hazelnut Dark Chocolate	152.74	7	In Stock	44	10/5/2026	Mumbai
+Blinkit	Amul Bitter 90% Chocolate	147.83	10	Out of Stock		10/5/2026	Bengaluru
+Zepto	Amul Bitter 90% Chocolate	162.63	13	In Stock	30	10/5/2026	Ahmedabad
+Instamart	Amul Bitter 90% Chocolate	152.34	16	In Stock	23	10/5/2026	Mumbai
+BigBasket	Amul Bitter 90% Chocolate	150.25	19	In Stock	37	10/5/2026	Delhi
+Blinkit	Amul Belgian Chocolate	146.42	1	In Stock	21	10/5/2026	Ahmedabad
+Zepto	Amul Belgian Chocolate	154.48	4	Out of Stock	26	10/5/2026	Mumbai
+Instamart	Amul Belgian Chocolate	149.9	7	In Stock	22	10/5/2026	Delhi
+BigBasket	Amul Belgian Chocolate	148.77	10	In Stock	40	10/5/2026	Bengaluru
+Blinkit	Amul Tropical Orange 55% Dark	114.78	13	In Stock	21	10/5/2026	Mumbai
+Zepto	Amul Tropical Orange 55% Dark	121.66	16	In Stock	20	10/5/2026	Delhi
+Instamart	Amul Tropical Orange 55% Dark	129.14	19	In Stock	28	10/5/2026	Bengaluru
+BigBasket	Amul Tropical Orange 55% Dark	116.98	1	In Stock	46	10/5/2026	Ahmedabad
+Blinkit	Amul Milk Chocolate	154.67	4	In Stock	19	10/5/2026	Delhi
+Zepto	Amul Milk Chocolate	149.62	7	Out of Stock	20	10/5/2026	Bengaluru
+Instamart	Amul Milk Chocolate	153.63	10	In Stock	31	10/5/2026	Ahmedabad
+BigBasket	Amul Milk Chocolate	157.29	13	In Stock	49	10/5/2026	Mumbai
+Blinkit	Amul Almondo | Chocolate Coated Almonds	192.85	16	In Stock	11	10/5/2026	Bengaluru
+Zepto	Amul Almondo | Chocolate Coated Almonds	186.01	19	In Stock	16	10/5/2026	Ahmedabad
+Instamart	Amul Almondo | Chocolate Coated Almonds	191.82	1	Out of Stock	24	10/5/2026	Mumbai
+BigBasket	Amul Almondo | Chocolate Coated Almonds	195.81	4	In Stock	43	10/5/2026	Delhi
+Blinkit	Amul Chocominis	149.8	7	In Stock	24	10/5/2026	Ahmedabad
+Zepto	Amul Chocominis	158.02	10	In Stock	29	10/5/2026	Mumbai
+Instamart	Amul Chocominis	148.92	13	In Stock	29	10/5/2026	Delhi
+BigBasket	Amul Chocominis	146.83	16	In Stock	36	10/5/2026	Bengaluru
+Blinkit	Amul India Origin Dark Chocolate	147.32	19	In Stock	20	10/5/2026	Mumbai
+Zepto	Amul India Origin Dark Chocolate	156.59	1	In Stock	25	10/5/2026	Delhi
+Instamart	Amul India Origin Dark Chocolate			Not Listed		10/5/2026	Bengaluru
+BigBasket	Amul India Origin Dark Chocolate			Not Listed		10/5/2026	Ahmedabad
+Blinkit	Amul Velvett Milk Chocolate	144.82	10	In Stock	20	10/5/2026	Delhi
+Zepto	Amul Velvett Milk Chocolate			Not Listed		10/5/2026	Bengaluru
+Instamart	Amul Velvett Milk Chocolate	158.13	16	Out of Stock		10/5/2026	Ahmedabad
+BigBasket	Amul Velvett Milk Chocolate	141.86	19	Out of Stock		10/5/2026	Mumbai
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate | I Love You			Not Listed		10/5/2026	Bengaluru
+Zepto	Amul Fruit n Nut 55% Dark Chocolate | I Love You	151.6	4	Out of Stock		10/5/2026	Ahmedabad
+Instamart	Amul Fruit n Nut 55% Dark Chocolate | I Love You	154.74	7	In Stock	30	10/5/2026	Mumbai
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate | I Love You	152.74	10	In Stock	48	10/5/2026	Delhi
+Blinkit	Amul 55% Dark Chocolate	147.83	13	Out of Stock		10/5/2026	Ahmedabad
+Zepto	Amul 55% Dark Chocolate	162.63	16	In Stock	15	10/5/2026	Mumbai
+Instamart	Amul 55% Dark Chocolate	152.34	19	In Stock	23	10/5/2026	Delhi
+BigBasket	Amul 55% Dark Chocolate	150.25	1	Out of Stock	42	10/5/2026	Bengaluru
+Blinkit	Amul Sugar Free 55% Dark Chocolate	146.42	4	In Stock	23	10/5/2026	Mumbai
+Zepto	Amul Sugar Free 55% Dark Chocolate	154.48	7	In Stock	28	10/5/2026	Delhi
+Instamart	Amul Sugar Free 55% Dark Chocolate	149.9	10	In Stock	28	10/5/2026	Bengaluru
+BigBasket	Amul Sugar Free 55% Dark Chocolate	148.77	13	In Stock	42	10/5/2026	Ahmedabad
+Blinkit	Amul Fruit n Nut 55% Dark Chocolate	143.99	16	Out of Stock	19	10/5/2026	Delhi
+Zepto	Amul Fruit n Nut 55% Dark Chocolate	152.07	19	In Stock	24	10/5/2026	Bengaluru
+Instamart	Amul Fruit n Nut 55% Dark Chocolate	161.67	1	In Stock	20	10/5/2026	Ahmedabad
+BigBasket	Amul Fruit n Nut 55% Dark Chocolate	146.23	4	In Stock	38	10/5/2026	Mumbai
+Blinkit	Amul Dark Passion Wafer Chocolate Tub	154.67	7	In Stock	19	10/5/2026	Bengaluru
+Zepto	Amul Dark Passion Wafer Chocolate Tub	149.62	10	In Stock	25	10/5/2026	Ahmedabad
+Instamart	Amul Dark Passion Wafer Chocolate Tub	153.63	13	In Stock	33	10/5/2026	Mumbai
+BigBasket	Amul Dark Passion Wafer Chocolate Tub	157.29	16	In Stock	44	10/5/2026	Delhi
+Blinkit	Amul Brazil Origin Dark Chocolate	152.25	19	Out of Stock	17	10/5/2026	Ahmedabad
+Zepto	Amul Brazil Origin Dark Chocolate	147.16	1	In Stock	18	10/5/2026	Mumbai
+Instamart	Amul Brazil Origin Dark Chocolate	151.29	4	In Stock	29	10/5/2026	Delhi
+BigBasket	Amul Brazil Origin Dark Chocolate	154.76	7	In Stock	47	10/5/2026	Bengaluru
+Blinkit	Amul Chocolate Syrup	149.8	10	In Stock	16	10/5/2026	Mumbai
+Zepto	Amul Chocolate Syrup	158.02	13	Out of Stock	21	10/5/2026	Delhi
+Instamart	Amul Chocolate Syrup	148.92	16	In Stock	22	10/5/2026	Bengaluru
+BigBasket	Amul Chocolate Syrup	146.83	19	In Stock	41	10/5/2026	Ahmedabad
+Blinkit	Amul 99% CACAO Dark Chocolate	147.32	1	In Stock	22	10/5/2026	Delhi
+Zepto	Amul 99% CACAO Dark Chocolate	156.59	4	In Stock	27	10/5/2026	Bengaluru
+Instamart	Amul 99% CACAO Dark Chocolate			Not Listed		10/5/2026	Ahmedabad
+BigBasket	Amul 99% CACAO Dark Chocolate			Not Listed		10/5/2026	Mumbai
+Blinkit	Amul High Protein Wheat Flour	116.07	13	In Stock	25	10/5/2026	Bengaluru
+Zepto	Amul High Protein Wheat Flour			Not Listed		10/5/2026	Ahmedabad
+Instamart	Amul High Protein Wheat Flour	126.11	19	Out of Stock		10/5/2026	Mumbai
+BigBasket	Amul High Protein Wheat Flour	114.1	1	Out of Stock		10/5/2026	Delhi
+Blinkit	Amul Kool Protein Milkshake Chocolate			Not Listed		10/5/2026	Ahmedabad
+Zepto	Amul Kool Protein Milkshake Chocolate	75.81	7	Out of Stock		10/5/2026	Mumbai
+Instamart	Amul Kool Protein Milkshake Chocolate	77.37	10	Out of Stock	32	10/5/2026	Delhi
+BigBasket	Amul Kool Protein Milkshake Chocolate	76.37	13	In Stock	50	10/5/2026	Bengaluru
+Blinkit	Amul Kool Protein Milkshake Kesar	73.91	16	Out of Stock		10/5/2026	Mumbai
+Zepto	Amul Kool Protein Milkshake Kesar	81.31	19	In Stock	17	10/5/2026	Delhi
+Instamart	Amul Kool Protein Milkshake Kesar	76.67	1	In Stock	28	10/5/2026	Bengaluru
+BigBasket	Amul Kool Protein Milkshake Kesar	75.65	4	In Stock	46	10/5/2026	Ahmedabad
+Blinkit	Amul Kool Protein Milkshake Arabica Coffee	73.2	7	In Stock	15	10/5/2026	Delhi
+Zepto	Amul Kool Protein Milkshake Arabica Coffee	76.73	10	In Stock	20	10/5/2026	Bengaluru
+Instamart	Amul Kool Protein Milkshake Arabica Coffee	74.95	13	Out of Stock	28	10/5/2026	Ahmedabad
+BigBasket	Amul Kool Protein Milkshake Arabica Coffee	73.87	16	In Stock	40	10/5/2026	Mumbai
+Blinkit	Amul Kool Protein Milkshake Vanilla	71.49	19	In Stock	21	10/5/2026	Bengaluru
+Zepto	Amul Kool Protein Milkshake Vanilla	76.04	1	In Stock	26	10/5/2026	Ahmedabad
+Instamart	Amul Kool Protein Milkshake Vanilla	81.34	4	In Stock	26	10/5/2026	Mumbai
+BigBasket	Amul Kool Protein Milkshake Vanilla	73.11	7	In Stock	40	10/5/2026	Delhi
+Blinkit	Amul High Protein Blueberry Shake	123.33	10	In Stock	24	10/5/2026	Ahmedabad
+Zepto	Amul High Protein Blueberry Shake	120.11	13	In Stock	29	10/5/2026	Mumbai
+Instamart	Amul High Protein Blueberry Shake	123.1	16	In Stock	18	10/5/2026	Delhi
+BigBasket	Amul High Protein Blueberry Shake	125.84	19	In Stock	36	10/5/2026	Bengaluru
+Blinkit	Amul High Protein Paneer	182.7	1	In Stock	17	10/5/2026	Mumbai
+Zepto	Amul High Protein Paneer	176.8	4	In Stock	23	10/5/2026	Delhi
+Instamart	Amul High Protein Paneer	181.95	7	In Stock	31	10/5/2026	Bengaluru
+BigBasket	Amul High Protein Paneer	185.29	10	In Stock	49	10/5/2026	Ahmedabad
+Blinkit	Amul High Protein Buttermilk	120.25	13	In Stock	22	10/5/2026	Delhi
+Zepto	Amul High Protein Buttermilk	127.23	16	In Stock	16	10/5/2026	Bengaluru
+Instamart	Amul High Protein Buttermilk	119.13	19	In Stock	27	10/5/2026	Ahmedabad
+BigBasket	Amul High Protein Buttermilk	117.25	1	In Stock	45	10/5/2026	Mumbai
+Blinkit	Amul High Protein Milk	54.22	4	In Stock	14	10/5/2026	Bengaluru
+Zepto	Amul High Protein Milk	57.69	7	In Stock	19	10/5/2026	Ahmedabad
+Instamart	Amul High Protein Milk	58.81	10	In Stock	27	10/5/2026	Mumbai
+BigBasket	Amul High Protein Milk			Not Listed		10/5/2026	Delhi
+Blinkit	Amul Whey Protein Gift Pack	675.83	16	In Stock	20	10/5/2026	Ahmedabad
+Zepto	Amul Whey Protein Gift Pack			Not Listed		10/5/2026	Mumbai
+Instamart	Amul Whey Protein Gift Pack	734.6	1	In Stock		10/5/2026	Delhi
+BigBasket	Amul Whey Protein Gift Pack	661.97	4	Out of Stock		10/5/2026	Bengaluru
+Blinkit	Amul Whey Protein			Not Listed		10/5/2026	Mumbai
+Zepto	Amul Whey Protein	754.93	10	Out of Stock		10/5/2026	Delhi
+Instamart	Amul Whey Protein	774.72	13	Out of Stock		10/5/2026	Bengaluru
+BigBasket	Amul Whey Protein	764.75	16	In Stock	35	10/5/2026	Ahmedabad

@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://shop.amul.com/api/1/entity/ms.products?fields[name]=1&fields[brand]=1&fields[categories]=1&fields[collections]=1&fields[alias]=1&fields[sku]=1&fields[price]=1&fields[compare_price]=1&fields[original_price]=1&fields[images]=1&fields[metafields]=1&fields[discounts]=1&fields[catalog_only]=1&fields[is_catalog]=1&fields[seller]=1&fields[available]=1&fields[inventory_quantity]=1&fields[net_quantity]=1&fields[num_reviews]=1&fields[avg_rating]=1&fields[inventory_low_stock_quantity]=1&fields[inventory_allow_out_of_stock]=1&fields[default_variant]=1&fields[variants]=1&fields[lp_seller_ids]=1&filters[0][field]=brand&filters[0][value][0]=Amul&filters[0][operator]=in&filters[0][original]=1&facets=true&facetgroup=default_category_facet&limit=16&total=1&start=0&v=6&device_type=other&substore=66505ff06510ee3d5903fd42",
+    "data": {
+      "messages": [
+        {
+          "name": "ms.entity.products.list",
+          "level": "success"
+        }
+      ],
+      "fileBaseUrl": "https://shop.amul.com/s/62fa94df8c13af2e242eba16/",
+      "data": [],
+      "paging": {
+        "limit": 16,
+        "start": 0,
+        "count": 16,
+        "total": 160,
+        "facets": {
+          "attributes._brand": [
+            {
+              "value": "Amul",
+              "count": 217
+            }
+          ]
+        }
+      }
+    }
+  }
+]
