@@ -107,13 +107,10 @@ The project includes a custom alert visual developed for Power BI to communicate
 
 **Potential business alert scenarios include:**
 
-| Alert Scenario | Purpose |
-|---|---|
-| Product Availability | Highlight products recorded as unavailable |
-| Price Variation | Identify price differences that require review |
-| Delivery ETA | Flag estimates that exceed a defined threshold |
-| Category Performance | Bring attention to weaker category-level KPIs |
-| Platform Performance | Highlight platform-level issues for investigation |
+Alert Scenario	Purpose
+Stock Alert	Highlight products recorded as out of stock across platforms
+Delivery Alert	Flag delivery ETAs that exceed a defined threshold
+Discount Alert	Surface meaningful changes in discount/promotion levels
 
 The scenarios above describe possible alert conditions. Their actual behavior depends on the measures, thresholds, and conditions implemented in the report.
 
