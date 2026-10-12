@@ -5,12 +5,16 @@ exactly like a real visitor), and listens for the ms.products API
 response instead of parsing rendered HTML. This gives us clean JSON
 with none of the fragility of clicking "Load More" and re-scraping HTML.
 
-Run: python test_api_via_playwright.py
+Run: python -m scripts.diagnostics.test_api_via_playwright
 """
 
 import json
+from pathlib import Path
+
 from playwright.sync_api import sync_playwright
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = PROJECT_ROOT / "data" / "output" / "api_response_sample.json"
 captured_responses = []
 
 
@@ -108,7 +112,8 @@ def run():
               "a first 'warm-up' request. If it still fails, we may need headless=False.")
         return
 
-    with open("api_response_sample.json", "w", encoding="utf-8") as f:
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with OUTPUT_PATH.open("w", encoding="utf-8") as f:
         json.dump(captured_responses, f, indent=2, ensure_ascii=False)
 
     # Find the response with the most items — that's almost certainly the real listing
@@ -131,7 +136,7 @@ def run():
             elif isinstance(value, (int, float, str, bool)):
                 print(f"Key '{key}' = {value}")
 
-    print(f"\nAll {len(captured_responses)} captured responses saved to api_response_sample.json")
+    print(f"\nAll {len(captured_responses)} captured responses saved to {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

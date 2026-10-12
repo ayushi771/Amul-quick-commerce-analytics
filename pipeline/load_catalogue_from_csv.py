@@ -6,15 +6,19 @@ pack_qty_unit, pack_multiplier, mrp, product_url, image_url, is_new,
 snapshot_date, is_available
 
 Run:
-    python load_catalogue_from_csv.py manual_catalogue_full.csv
+    python -m pipeline.load_catalogue_from_csv
 """
 
 import sys
 import csv
 import re
 from datetime import date
+from pathlib import Path
 
-from db import get_connection, upsert_product, insert_catalogue_snapshot, mark_missing_products_inactive
+from pipeline.db import get_connection, upsert_product, insert_catalogue_snapshot, mark_missing_products_inactive
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_CSV = PROJECT_ROOT / "data" / "catalogue" / "manual_catalogue_full.csv"
 
 UNIT_TO_GRAMS = {"g": 1, "gm": 1, "gms": 1, "kg": 1000}
 UNIT_TO_ML = {"ml": 1, "l": 1000, "ltr": 1000, "litre": 1000, "liter": 1000}
@@ -130,5 +134,5 @@ def load_csv(csv_path: str):
 
 
 if __name__ == "__main__":
-    path = sys.argv[1] if len(sys.argv) > 1 else "manual_catalogue_full.csv"
+    path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_CSV
     load_csv(path)

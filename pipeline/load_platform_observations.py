@@ -1,20 +1,25 @@
 
 """
-Loads quick-commerce observations (from manual_observation_template.csv,
+Loads quick-commerce observations (from data/observations/manual_observation_template.csv,
 or from a platform-specific scraper's output in the same column format)
 into fact_platform_observation, resolving each row to a product_id via
 product_platform_mapping (so run match_products.py on this CSV FIRST).
 
 Run:
-    python match_products.py "manual_observation_template.csv"
-    python load_platform_observations.py "manual_observation_template.csv"
+    python -m pipeline.match_products
+    python -m pipeline.load_platform_observations
 """
 
 import sys
 import csv
 from datetime import date
 import re
-from db import get_connection
+from pathlib import Path
+
+from pipeline.db import get_connection
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_CSV = PROJECT_ROOT / "data" / "observations" / "manual_observation_template.csv"
 
 
 def get_location_id(conn, location_name: str):
@@ -459,8 +464,7 @@ if __name__ == "__main__":
     path = (
         sys.argv[1]
         if len(sys.argv) > 1
-        else "manual_observation_template.csv"
+        else DEFAULT_CSV
     )
 
     load_csv(path)
-

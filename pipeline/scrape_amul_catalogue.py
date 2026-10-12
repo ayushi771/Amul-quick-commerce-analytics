@@ -4,9 +4,9 @@ import sys
 from datetime import date
 import requests
 from bs4 import BeautifulSoup
-from config import AMUL_BRAND_URL, REQUEST_HEADERS, REQUEST_DELAY_SECONDS
-from pack_parser import parse_pack_info
-from db import get_connection, upsert_product, insert_catalogue_snapshot, mark_missing_products_inactive
+from pipeline.config import AMUL_BRAND_URL, REQUEST_HEADERS, REQUEST_DELAY_SECONDS
+from pipeline.pack_parser import parse_pack_info
+from pipeline.db import get_connection, upsert_product, insert_catalogue_snapshot, mark_missing_products_inactive
 PAGE_SIZE = 15         
 PAGE_PARAM = "start"   
 MAX_PAGES = 30    

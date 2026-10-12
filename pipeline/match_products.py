@@ -14,14 +14,18 @@ never silently trust a low-confidence match in fact_platform_observation
 numbers without a human checking it at least once per product.
 
 Run:
-    python match_products.py manual_observation_template.csv
+    python -m pipeline.match_products
 """
 
 import sys
 import csv
+from pathlib import Path
 from rapidfuzz import process, fuzz
 
-from db import get_connection
+from pipeline.db import get_connection
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_CSV = PROJECT_ROOT / "data" / "observations" / "manual_observation_template.csv"
 
 CONFIDENCE_REVIEW_THRESHOLD = 0.85  # below this, flag for manual review
 
@@ -94,5 +98,5 @@ def match_csv(csv_path: str):
 
 
 if __name__ == "__main__":
-    path = sys.argv[1] if len(sys.argv) > 1 else "manual_observation_template.csv"
+    path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_CSV
     match_csv(path)

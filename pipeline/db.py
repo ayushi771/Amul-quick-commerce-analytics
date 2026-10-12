@@ -16,7 +16,7 @@ Uses psycopg2 directly (no ORM).
 import psycopg2
 import psycopg2.extras
 from contextlib import contextmanager
-from config import DB_CONFIG
+from pipeline.config import DB_CONFIG
 
 
 # ============================================================

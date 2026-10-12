@@ -2,12 +2,16 @@
 Tests the real product-data API found via DevTools, directly with
 `requests` — no browser automation needed if this works.
 
-Run: python test_api_endpoint.py
+Run: python -m scripts.diagnostics.test_api_endpoint
 """
 
 import json
+from pathlib import Path
+
 import requests
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = PROJECT_ROOT / "data" / "output" / "api_response_sample.json"
 API_URL = "https://shop.amul.com/api/1/entity/ms.products"
 
 PARAMS = {
@@ -56,7 +60,8 @@ except Exception as e:
     print(resp.text[:500])
     raise SystemExit(1)
 
-with open("api_response_sample.json", "w", encoding="utf-8") as f:
+OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+with OUTPUT_PATH.open("w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 print("Top-level keys:", list(data.keys()))
@@ -70,4 +75,4 @@ for key, value in data.items():
             print("First item sample:")
             print(json.dumps(value[0], indent=2, ensure_ascii=False)[:1500])
 
-print("\nFull response saved to api_response_sample.json — open it to inspect the full structure.")
+print(f"\nFull response saved to {OUTPUT_PATH} — open it to inspect the full structure.")

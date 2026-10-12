@@ -1,4 +1,4 @@
-from db import get_connection
+from pipeline.db import get_connection
 
 with get_connection() as conn:
     with conn.cursor() as cur:
